@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>学习资料库 Beta1</title>
+<style>
+body{margin:0;background:#eef8ff;font-family:"Microsoft YaHei",Arial;color:#223}
+.container{max-width:900px;margin:auto;padding:18px}
+.card{background:#fff;border-radius:16px;padding:16px;margin:14px 0;box-shadow:0 8px 25px #9bd7ff55}
+h1{font-size:24px;margin:0}
+input{width:100%;padding:12px;border-radius:12px;border:1px solid #cfe8fa;font-size:14px}
+.item{padding:15px;border:1px solid #d8ecfa;border-radius:14px;margin-top:12px}
+.title{font-weight:bold;font-size:16px}
+.desc{font-size:13px;color:#666;margin:8px 0}
+a{background:#4aa8ff;color:white;padding:8px 12px;border-radius:10px;text-decoration:none;font-size:13px;margin-right:8px}
+.empty{text-align:center;color:#777;padding:20px}
+</style>
+</head>
+<body>
+<div class="container">
+<div class="card">
+<h1>📘 学习资料库</h1>
+<div style="font-size:13px;color:#777">当前网页版本 | Beta1 Copyright © 2026 wyc</div>
+</div>
+
+<div class="card">
+<input id="search" placeholder="搜索资料标题或简介..." oninput="render()">
+</div>
+
+<div class="card">
+<div id="list">正在加载资料...</div>
+</div>
+</div>
+
+<script>
+const DATA_URL="https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/documents.json";
+let materials=[];
+
+fetch(DATA_URL+"?v="+Date.now())
+.then(r=>r.json())
+.then(data=>{
+ materials=data;
+ render();
+})
+.catch(()=>{
+ document.getElementById("list").innerHTML="资料加载失败，请稍后刷新";
+});
+
+function render(){
+ let q=document.getElementById("search").value.toLowerCase();
+ let list=materials.filter(x=>(x.title+x.desc).toLowerCase().includes(q));
+ document.getElementById("list").innerHTML=list.length?
+ list.map(x=>`
+ <div class="item">
+ <div class="title">📄 ${x.title}</div>
+ <div class="desc">${x.desc}</div>
+<a target="_blank" href="${"https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/"+encodeURIComponent(x.file)}">在线预览</a>
+<a href="${"https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/"+encodeURIComponent(x.file)}" download>下载PDF</a>
+ </div>`).join("")
+ :"<div class='empty'>暂无符合条件的资料</div>";
+}
+</script>
+</body>
+</html>
