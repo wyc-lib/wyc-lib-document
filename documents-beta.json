@@ -179,4 +179,17 @@
       }
     ]
   }
+   {    
+    "name": "化学九上学习资料",
+    "icon": "📚",
+    "files": [
+      {
+        "title": "九上化学知识点",
+        "icon": "📝",
+        "desc": "当前更新至第一、二章",
+        "date": "2026-07-13",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上化学知识点.pdf"
+      }
+    ]
+  }
 ]
