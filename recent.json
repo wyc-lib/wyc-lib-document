@@ -2,11 +2,13 @@
   "items":[
     {
       "title":"八下道法知识点.pdf",
-      "date":"2026-07-10"
+      "date":"2026-07-10",
+      "file":"https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八下道法知识点汇总.pdf"
     },
     {
       "title":"九上化学知识点.pdf",
-      "date":"2026-07-13"
+      "date":"2026-07-13",
+     "file":"https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上化学知识点.pdf"
     }
   ]
 }
