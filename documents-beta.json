@@ -194,5 +194,19 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上化学知识点.pdf"
       }
     ]
+  },
+  {    
+    "name": "九上历史学习资料",
+    "icon": "📚",
+    "desc": "八年级下册所有历史知识清单",
+    "files": [
+      {
+        "title": "第1课答案",
+        "icon": "📝",
+        "desc": "当前只做测试，请不要下载",
+        "date": "2026-09-01",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第1课答案.pdf"
+      }
+    ]
   }
 ]
