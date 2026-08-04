@@ -1,0 +1,13 @@
+{
+  "items": [
+    {
+      "title": "资讯标题",
+      "summary": "资讯内容简介",
+      "category": "学习资讯",
+      "date": "2026-08-04",
+      "image": "https://图片的公开地址.jpg",
+      "imageAlt": "图片内容说明",
+      "link": "https://资讯详情地址"
+    }
+  ]
+}
