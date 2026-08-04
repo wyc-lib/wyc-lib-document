@@ -2,6 +2,18 @@
   "title": "更新日志",
   "versions": [
     {
+      "version": "Version 1.1.2",
+      "date": "2026-07-20",
+      "content": [
+        "",
+        "新增资讯功能",
+        "调整顶部栏内容",
+        "资料库排版优化",
+        "新增二次元ACG青春版",
+        "中国人会飞（bushi）"
+      ]
+    },
+    {
       "version": "Version 1.1.1",
       "date": "2026-07-20",
       "content": [
