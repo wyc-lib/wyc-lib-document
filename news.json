@@ -1,13 +1,13 @@
 {
   "items": [
     {
-      "title": "资讯标题",
-      "summary": "资讯内容简介",
-      "category": "学习资讯",
+      "title": "暂无标题",
+      "summary": "暂无简介",
+      "category": "暂无分类",
       "date": "2026-08-04",
-      "image": "https://图片的公开地址.jpg",
-      "imageAlt": "图片内容说明",
-      "link": "https://资讯详情地址"
+      "image": "暂无地址",
+      "imageAlt": "暂无图片",
+      "link": "暂无链接"
     }
   ]
 }
