@@ -4,10 +4,10 @@
     {
       "title": "欢迎来到学习资料库",
       "subtitle": "点击进入资料库，查找需要的学习文件",
-      "image": "assets/carousel-welcome.svg",
-      "alt": "学习资料库欢迎图片",
-      "link": "library.html",
-      "newTab": false,
+      "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/sintravel.jpg",
+      "alt": "新加坡旅行",
+      "link": "https://www.pitravel.cn/web/co-editor?co_editor_code=RTlTwJO9SdpyKOr6NwHR&id=7670919428721871522",
+      "newTab": true,
       "enabled": true
     }
   ]
