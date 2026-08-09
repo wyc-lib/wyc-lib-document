@@ -2,13 +2,13 @@
   "interval": 5000,
   "items": [
     {
-      "title": "叮！您收到了1封2027暑新加坡毕业旅行邀请函~",
-      "subtitle": "点击进入邀请函详细界面~",
+      "title": "欢迎访问学习资料库！",
+      "subtitle": "点击进入学校官网~",
       "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/sintravel.jpg",
-      "alt": "新加坡旅行",
-      "link": "https://www.pitravel.cn/web/co-editor?co_editor_code=RTlTwJO9SdpyKOr6NwHR&id=7670919428721871522",
-      "newTab": true,
-      "enabled": true
+      "alt": "Suzhou Pinjiang Middle school",
+      "link": "http://www.szpjzx.cn/index.asp",
+      "newTab": false,
+      "enabled": false
     }
   ]
 }
