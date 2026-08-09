@@ -4,9 +4,9 @@
     {
       "title": "欢迎访问学习资料库！",
       "subtitle": "点击进入学校官网~",
-      "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/sintravel.jpg",
+      "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/pj.jpg",
       "alt": "Suzhou Pinjiang Middle school",
-      "link": "http://www.szpjzx.cn/index.asp",
+      "link": "http://www.szpjzx.cn",
       "newTab": false,
       "enabled": false
     }
