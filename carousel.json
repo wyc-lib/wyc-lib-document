@@ -7,8 +7,8 @@
       "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/pj.jpg",
       "alt": "Suzhou Pinjiang Middle school",
       "link": "http://www.szpjzx.cn",
-      "newTab": false,
-      "enabled": false
+      "newTab": true,
+      "enabled": true
     }
   ]
 }
