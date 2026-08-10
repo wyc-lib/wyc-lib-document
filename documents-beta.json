@@ -405,4 +405,18 @@
       }
     ]
   }
+  {    
+    "name": "九上数学学习资料",
+    "icon": "📚",
+    "desc": "所有九上数学学习资料",
+    "files": [
+      {
+        "title": "暑假数学作业答案",
+        "icon": "📝",
+        "desc": "来源于QQ",
+        "date": "2026-08-10",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/暑假数学作业答案.pdf"
+      }
+    ]
+  }
 ]
