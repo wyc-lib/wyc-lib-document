@@ -2,19 +2,19 @@
   "speed": 2500,
   "items": [
     {
-      "text": "通知：本站如遇网络问题，请点击刷新后重试",
+      "text": "通知：本站如遇网络问题，请点击刷新后重试。Notice: If you encounter network issues on this site, please click refresh and try again.",
       "type": "new"
     },
     {
-      "text": "通知：本站如遇程序问题，请联系开发者修复",
+      "text": "通知：本站如遇程序问题，请联系开发者修复。Notice: If this site encounters any technical issues, please contact the developer for repairs.",
       "type": "new"
     },
     {
-      "text": "通知：本站正积极有偿征求优质资料，可联系开发者",
+      "text": "通知：本站正积极有偿征求优质资料，可联系开发者。Notice: We are actively soliciting high-quality materials on a paid basis; please contact the developer.",
       "type": "new"
     },
     {
-      "text": "通知：本站正积极征求网站优化意见，可联系开发者",
+      "text": "通知：本站正积极征求网站优化意见，可联系开发者。Notice: We are actively seeking feedback on website optimization; please contact the developer.",
       "type": "new"
     }
   ]
