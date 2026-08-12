@@ -418,11 +418,18 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/暑假数学作业答案.pdf"
       },
       {
-        "title": "8月数学打卡",
+        "title": "8月数学打卡DAY1-10",
         "icon": "📝",
         "desc": "来源于QQ",
         "date": "2026-08-11",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/2026暑假预习1-10.pdf"
+      },
+      {
+        "title": "8月数学打卡DAY11-20",
+        "icon": "📝",
+        "desc": "来源于QQ",
+        "date": "2026-08-12",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/2026暑假预习11-20.pdf"
       }
     ]
   }
