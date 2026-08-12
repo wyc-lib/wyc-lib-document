@@ -32,6 +32,10 @@
     {
       "text": "Notice: We are actively seeking feedback on website optimization; please contact the developer.",
       "type": "new"
+    },
+    {
+      "text": "重要提示：V1.1.3网址位于https://wyc-lib-beta.pages.dev/，8月14日18：00上线",
+      "type": "new"
     }
   ]
 }
