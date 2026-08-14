@@ -2,72 +2,71 @@
   "title": "更新日志",
   "versions": [
     {
-      "version": "Version 1.1.3",
+      "version": "版本 | Version 1.1.3",
       "date": "2026-08-14",
       "content": [
-        "新增首页轮播图片",
-        "优化动态效果",
-        "说明与设置内容优化",
-        "优化色彩风格"
+        "新增首页轮播图片 | Added homepage carousel images",
+        "优化动态效果 | Optimized dynamic effects",
+        "说明与设置内容优化 | Explanation and settings have been optimized",
+        "优化色彩风格 | Optimize color style"
       ]
     },
     {
-      "version": "Version 1.1.2",
+      "version": "版本 | Version 1.1.2",
       "date": "2026-08-04",
       "content": [
-        "调整顶部栏内容",
-        "资料库排版优化",
-        "新增二次元ACG青春版",
-        "中国人会飞（bushi）"
+        "调整顶部栏内容 | Adjust the top bar content",
+        "资料库排版优化 | Optimized database layout",
+        "中国人会飞 | Chinese can fly"
       ]
     },
     {
-      "version": "Version 1.1.1",
+      "version": "版本 | Version 1.1.1",
       "date": "2026-07-20",
       "content": [
-        "增加顶部栏",
-        "新增文件转换、设置功能",
-        "新增通知轮播功能",
-        "优化文件资料排版、显示",
-        "新增查看详情功能",
-        "来杯好茶爻一爻（bushi）"
+        "增加顶部栏 | Add top bar",
+        "新增文件转换、设置功能 | Added new file conversion and settings features",
+        "新增通知轮播功能 | Added a new notification carousel feature",
+        "优化文件资料排版、显示 | Optimize file layout and display",
+        "新增查看详情功能 | Added a detailed viewing feature",
+        "来杯好茶爻一爻 | Give me a cup of fine tea and shake it"
       ]
     },
     {
-      "version": "Version 1.0.1",
+      "version": "版本 | Version 1.0.1",
       "date": "2026-07-20",
       "content": [
-        "优化页面美观性",
-        "新增最近下载功能",
-        "调整按钮为浅色色调",
-        "增加加载中动画"
+        "优化页面美观性 | Optimize the page's appearance",
+        "新增最近下载功能 | Add a 'Recently Downloaded' feature",
+        "调整按钮为浅色色调 | Adjust the button to a light tone",
+        "增加加载中动画 | Add a loading animation"
       ]
     },
     {
-      "version": "Beta3",
+      "version": "版本 | Version Beta3",
       "date": "2026-07-13",
       "content": [
-        "新增顶部通知功能",
-        "新增最近更新功能",
-        "优化文件相关排版"
+        "新增顶部通知功能 | Added top notification feature",
+        "新增最近更新功能 | Added recent updates feature",
+        "优化文件相关排版 | Optimized file formatting"
       ]
     },
     {
-      "version": "Beta2",
+      "version": "版本 | Version Beta2",
       "date": "2026-07-09",
       "content": [
-        "新增文件夹功能",
-        "新增我的收藏功能",
-        "新增深色模式"
+        "新增文件夹功能 | Added folder functionality",
+        "新增我的收藏功能 | Add 'My Favorites' feature",
+        "新增深色模式 | Added dark mode"
       ]
     },
     {
-      "version": "Beta1",
+      "version": "版本 | Version Beta1",
       "date": "2026-07-08",
       "content": [
-        "新增搜索功能",
-        "新增文件下载功能",
-        "调整为发光浅蓝色风格"
+        "新增搜索功能 | Added search functionality",
+        "新增文件下载功能 | Added a file download feature",
+        "调整为发光浅蓝色风格 | Change to a glowing light blue style"
       ]
     }
   ]
