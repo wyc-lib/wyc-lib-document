@@ -2,39 +2,15 @@
   "speed": 2500,
   "items": [
     {
-      "text": "通知：本站如遇网络问题，请点击刷新后重试。",
+      "text": "通知：如果资料库文件无法加载，请多次刷新后重试",
       "type": "new"
     },
     {
-      "text": "Notice: If you encounter network issues on this site, please click refresh and try again.",
+      "text": "Notice: If the database file can't load, try refreshing a few times and then try again.",
       "type": "new"
     },
     {
-      "text": "通知：本站如遇程序问题，请联系开发者修复。",
-      "type": "new"
-    },
-    {
-      "text": "Notice: If you encounter any technical issues, please contact the developer for repairs.",
-      "type": "new"
-    },
-    {
-      "text": "通知：本站正积极有偿征求优质资料，可联系开发者。",
-      "type": "new"
-    },
-    {
-      "text": "Notice: We are actively soliciting high-quality materials on a paid basis; please contact the developer.",
-      "type": "new"
-    },
-    {
-      "text": "通知：本站正积极征求网站优化意见，可联系开发者。",
-      "type": "new"
-    },
-    {
-      "text": "Notice: We are actively seeking feedback on website optimization; please contact the developer.",
-      "type": "new"
-    },
-    {
-      "text": "重要提示：V1.1.3网址位于https://wyc-lib-beta.pages.dev/，8月14日18：00上线",
+      "text": "暑假余额严重不足，你的作业完成了吗~",
       "type": "new"
     }
   ]
