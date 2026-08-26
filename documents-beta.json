@@ -147,6 +147,307 @@
     ]
   },
   {
+  "name": "七下历史学习资料",
+  "icon": "📚",
+  "desc": "七下知识清单",
+  "files": [
+    {
+      "title": "七下第1课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第1课题目.docx"
+    },
+    {
+      "title": "七下第1课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第1课答案.docx"
+    },
+    {
+      "title": "七下第2课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第2课题目2.docx"
+    },
+    {
+      "title": "七下第2课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第2课答案.docx"
+    },
+    {
+      "title": "七下第3课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第3课题目.docx"
+    },
+    {
+      "title": "七下第3课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第3课答案.docx"
+    },
+    {
+      "title": "七下第4课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第4课题目.docx"
+    },
+    {
+      "title": "七下第4课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第4课答案.docx"
+    },
+    {
+      "title": "七下第5课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第5课题目.docx"
+    },
+    {
+      "title": "七下第5课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第5课答案.docx"
+    },
+    {
+      "title": "七下第6课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第6课题目.docx"
+    },
+    {
+      "title": "七下第6课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第6课答案.docx"
+    },
+    {
+      "title": "七下第7课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第7课题目.docx"
+    },
+    {
+      "title": "七下第7课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第7课答案.docx"
+    },
+    {
+      "title": "七下第8课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第8课题目.docx"
+    },
+    {
+      "title": "七下第8课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第8课答案.docx"
+    },
+    {
+      "title": "七下第9课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第9课题目.docx"
+    },
+    {
+      "title": "七下第9课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第9课答案.docx"
+    },
+    {
+      "title": "七下第10课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第10课题目.docx"
+    },
+    {
+      "title": "七下第10课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第10课答案.docx"
+    },
+    {
+      "title": "七下第11课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第11课题目.docx"
+    },
+    {
+      "title": "七下第11课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第11课答案.docx"
+    },
+    {
+      "title": "七下第12课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第12课题目.docx"
+    },
+    {
+      "title": "七下第12课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第12课答案.docx"
+    },
+    {
+      "title": "七下第13课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第13课题目.docx"
+    },
+    {
+      "title": "七下第13课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第13课答案.docx"
+    },
+    {
+      "title": "七下第14课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第14课题目.docx"
+    },
+    {
+      "title": "七下第14课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第14课答案.docx"
+    },
+    {
+      "title": "七下第15课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第15课题目.docx"
+    },
+    {
+      "title": "七下第15课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第15课答案.docx"
+    },
+    {
+      "title": "七下第16课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第16课 知识清单.docx"
+    },
+    {
+      "title": "七下第16课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第16课答案.docx"
+    },
+    {
+      "title": "七下第17课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第17课题目.docx"
+    },
+    {
+      "title": "七下第17课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第17课答案 (1).docx"
+    },
+    {
+      "title": "七下第18课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第18课题目.docx"
+    },
+    {
+      "title": "七下第18课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第18课答案.docx"
+    },
+    {
+      "title": "七下第19课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第19课题目.docx"
+    },
+    {
+      "title": "七下第19课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第19课答案.docx"
+    },
+    {
+      "title": "七下第20课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第20课题目.docx"
+    },
+    {
+      "title": "七下第20课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第20课答案.docx"
+    },
+    {
+      "title": "七下第21课题目",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第21课题目.docx"
+    },
+    {
+      "title": "七下第21课答案",
+      "icon": "📝",
+      "desc": "七下知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第21课答案.docx"
+    }
+  ]
+  },
+  {
     "name": "八下历史学习资料",
     "icon": "📚",
     "desc": "八年级下册所有历史知识清单",
