@@ -2,6 +2,16 @@
   "title": "更新日志",
   "versions": [
     {
+      "version": "版本 | Version 1.1.4",
+      "date": "2026-08-28",
+      "content": [
+        "新增调整资料库排版和筛选资料功能 | Added features for adjusting database layout and filtering data",
+        "调整网页为5种渐变配色 | Adjust the webpage to 5 gradient color schemes",
+        "新增自定义提示音功能 | Added custom notification sound feature",
+        "新增文件预览和失效保护功能 | Added file preview and expiration protection features"
+      ]
+    },
+    {
       "version": "版本 | Version 1.1.3",
       "date": "2026-08-14",
       "content": [
