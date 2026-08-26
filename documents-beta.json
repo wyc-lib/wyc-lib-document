@@ -148,7 +148,7 @@
   },
   {
     "name": "八下历史学习资料",
-    "icon": "📂",
+    "icon": "📚",
     "desc": "八年级下册所有历史知识清单",
     "folders": [
       {
@@ -519,6 +519,41 @@
         "name": "试卷和其他",
         "icon": "📚",
         "desc": "九上所有试卷及其他，来源于企业微信",
+        "files": [
+              {
+                 "title": "占位文件",
+                 "icon": "📝",
+                 "desc": "尚未上线，请勿点击下载",
+                 "date": "2026-09-01",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/占位.pdf"
+              }
+        ]
+      }
+    ]
+  },
+  {    
+    "name": "九上语文学习资料",
+    "icon": "📚",
+    "desc": "九上所有的语文资料，包含堂测答案、小程序内容等，来源于企业微信",
+    "folders": [
+      {
+        "name": "试卷题目",
+        "icon": "📚",
+        "desc": "九上所有试卷题目，来源于企业微信",
+        "files": [
+              {
+                 "title": "占位文件",
+                 "icon": "📝",
+                 "desc": "尚未上线，请勿点击下载",
+                 "date": "2026-09-01",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/占位.pdf"
+              }
+        ]
+      },
+      {
+        "name": "小程序内容",
+        "icon": "📚",
+        "desc": "九上所有小程序发布内容，来源于企业微信",
         "files": [
               {
                  "title": "占位文件",
