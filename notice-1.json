@@ -10,7 +10,11 @@
       "type": "new"
     },
     {
-      "text": "暑假余额严重不足，你的作业完成了吗~",
+      "text": "通知：暑假余额严重不足，你的作业完成了吗~",
+      "type": "new"
+    },
+    {
+      "text": "Notice: Your summer vacation balance is seriously low, have you finished your homework~",
       "type": "new"
     }
   ]
