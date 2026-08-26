@@ -506,7 +506,13 @@
         "icon": "📚",
         "desc": "九上所有知识清单答案，来源于企业微信",
         "files": [
-        
+              {
+                 "title": "占位文件",
+                 "icon": "📝",
+                 "desc": "尚未上线，请勿点击下载",
+                 "date": "2026-09-01",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/占位.pdf"
+              }
         ]
       },
       {
@@ -514,7 +520,13 @@
         "icon": "📚",
         "desc": "九上所有试卷及其他，来源于企业微信",
         "files": [
-        
+              {
+                 "title": "占位文件",
+                 "icon": "📝",
+                 "desc": "尚未上线，请勿点击下载",
+                 "date": "2026-09-01",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/占位.pdf"
+              }
         ]
       }
     ]
