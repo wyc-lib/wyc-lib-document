@@ -495,5 +495,27 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/DAY1-10答案.pdf"
       }
     ]
+  },
+  {    
+    "name": "九上历史学习资料",
+    "icon": "📚",
+    "desc": "九上所有的历史资料，包含知识清单、试卷等，来源于企业微信",
+    "files": [
+      {
+        "name": "知识清单",
+        "icon": "📚",
+        "desc": "九上所有知识清单答案，来源于企业微信",
+        "files": [
+        
+        ]
+      },
+      {
+        "name": "试卷和其他",
+        "icon": "📚",
+        "desc": "九上所有试卷及其他，来源于企业微信",
+        "files": [
+        
+        ]
+      }
   }
 ]
