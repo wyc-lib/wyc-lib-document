@@ -12,10 +12,19 @@
     },
     {
       "title": "假期余额不足，即将开启新学期副本~",
-      "subtitle": "点击进入学习官网~",
+      "subtitle": "点击进入学校官网~",
       "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/开学季.png",
       "alt": "差点忘了，祝213099 063899哈~",
       "link": "http://www.szpjzx.cn",
+      "newTab": true,
+      "enabled": true
+    },
+    {
+      "title": "学习资料库新版即将开测~",
+      "subtitle": "点击进入公测版官网~",
+      "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/学习资料库.png",
+      "alt": "#CP超话#王者荣耀#时代峰峻",
+      "link": "wyc-lib-beta.pages.dev",
       "newTab": true,
       "enabled": true
     }
