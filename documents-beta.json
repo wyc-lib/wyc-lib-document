@@ -572,5 +572,33 @@
         ]
       }
     ]
-  }
+  },
+  {    
+    "name": "【应急】2026暑假历史知识清单",
+    "icon": "📚",
+    "desc": "2026暑假作业中需要默写的知识清单",
+    "files": [
+              {
+                 "title": "七上总知识清单",
+                 "icon": "📝",
+                 "desc": "可以下载",
+                 "date": "2026-08-26",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/七上知识清单（合）.pdf"
+              },
+              {
+                 "title": "七下总知识清单",
+                 "icon": "📝",
+                 "desc": "可以下载",
+                 "date": "2026-08-26",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/七下知识清单（合）.pdf"
+              },
+             {
+                 "title": "八上总知识清单",
+                 "icon": "📝",
+                 "desc": "可以下载",
+                 "date": "2026-08-26",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八年级上册知识清单.pdf"
+              }
+        ]
+      },
 ]
