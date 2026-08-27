@@ -147,6 +147,363 @@
     ]
   },
   {
+  "name": "八上历史学习资料",
+  "icon": "📚",
+  "desc": "八年级上册所有历史知识清单及答案",
+  "files": [
+    {
+      "title": "八上第1课题目",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第1课题目.docx"
+    },
+    {
+      "title": "八上第1课答案",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第1课答案.docx"
+    },
+    {
+      "title": "八上第2课题目",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第2课题目.docx"
+    },
+    {
+      "title": "八上第2课答案",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第2课答案.docx"
+    },
+    {
+      "title": "八上第3课题目",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第3课题目.docx"
+    },
+    {
+      "title": "八上第3课答案",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第3课答案.docx"
+    },
+    {
+      "title": "八上第4课题目",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第4课题目.docx"
+    },
+    {
+      "title": "八上第4课答案",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第4课答案.docx"
+    },
+    {
+      "title": "八上第5课题目",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第5课题目.docx"
+    },
+    {
+      "title": "八上第5课答案",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第5课答案.docx"
+    },
+    {
+      "title": "八上第6课题目",
+      "icon": "📄",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第6课题目.pdf"
+    },
+    {
+      "title": "八上第6课答案",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第6课答案.docx"
+    },
+    {
+      "title": "八上第7课题目",
+      "icon": "📄",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第7课题目.pdf"
+    },
+    {
+      "title": "八上第7课答案",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第7课答案.docx"
+    },
+    {
+      "title": "八上第8课题目",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第8课题目.docx"
+    },
+    {
+      "title": "八上第8课答案",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第8课答案.docx"
+    },
+    {
+      "title": "八上第9课题目",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第9课题目.docx"
+    },
+    {
+      "title": "八上第9课答案",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第9课答案.docx"
+    },
+    {
+      "title": "八上第10课题目",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第10课题目.docx"
+    },
+    {
+      "title": "八上第10课答案",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第10课答案.docx"
+    },
+    {
+      "title": "八上第11课题目",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第11课题目.docx"
+    },
+    {
+      "title": "八上第11课答案",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第11课答案.docx"
+    },
+    {
+      "title": "八上第12课题目（Word版）",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第12课题目.docx"
+    },
+    {
+      "title": "八上第12课题目（PDF版）",
+      "icon": "📄",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第12课题目.pdf"
+    },
+    {
+      "title": "八上第12课答案（Word版）",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第12课答案.docx"
+    },
+    {
+      "title": "八上第12课答案（PDF版）",
+      "icon": "📄",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第12课答案.pdf"
+    },
+    {
+      "title": "八上第13课题目",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第13课题目.docx"
+    },
+    {
+      "title": "八上第13课答案",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第13课答案.docx"
+    },
+    {
+      "title": "八上第14课题目（Word版）",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第14课题目.docx"
+    },
+    {
+      "title": "八上第14课题目（PDF版）",
+      "icon": "📄",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第14课题目.pdf"
+    },
+    {
+      "title": "八上第14课答案（Word版）",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第14课答案.docx"
+    },
+    {
+      "title": "八上第14课答案（PDF版）",
+      "icon": "📄",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第14课答案.pdf"
+    },
+    {
+      "title": "八上第15课题目（Word版）",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第15课题目.docx"
+    },
+    {
+      "title": "八上第15课题目（PDF版）",
+      "icon": "📄",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第15课题目.pdf"
+    },
+    {
+      "title": "八上第15课答案（Word版）",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第15课答案.docx"
+    },
+    {
+      "title": "八上第15课答案（PDF版）",
+      "icon": "📄",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第15课答案.pdf"
+    },
+    {
+      "title": "八上第16课题目",
+      "icon": "📄",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第16课题目.pdf"
+    },
+    {
+      "title": "八上第16课答案",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第16课答案.docx"
+    },
+    {
+      "title": "八上第17课题目",
+      "icon": "📄",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第17课题目.pdf"
+    },
+    {
+      "title": "八上第17课答案",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第17课答案.docx"
+    },
+    {
+      "title": "八上第18课题目",
+      "icon": "📄",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第18课题目.pdf"
+    },
+    {
+      "title": "八上第18课答案",
+      "icon": "📄",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第18课答案.pdf"
+    },
+    {
+      "title": "八上第19课题目",
+      "icon": "📄",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第19课题目.pdf"
+    },
+    {
+      "title": "八上第19课答案",
+      "icon": "📄",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第19课答案.pdf"
+    },
+    {
+      "title": "八上第20课题目（Word版）",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第20课题目.docx"
+    },
+    {
+      "title": "八上第20课题目（PDF版）",
+      "icon": "📄",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第20课题目.pdf"
+    },
+    {
+      "title": "八上第20课答案",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第20课答案.docx"
+    },
+    {
+      "title": "八上第21课题目（Word版）",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第21课题目.docx"
+    },
+    {
+      "title": "八上第21课题目（PDF版）",
+      "icon": "📄",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第21课题目.pdf"
+    },
+    {
+      "title": "八上第21课答案",
+      "icon": "📝",
+      "desc": "八上知识清单",
+      "date": "2026-08-26",
+      "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上第21课答案.docx"
+    }
+  ]
+},
+  {
   "name": "七下历史学习资料",
   "icon": "📚",
   "desc": "七年级下册所有历史知识清单",
