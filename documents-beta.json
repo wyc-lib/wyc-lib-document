@@ -861,31 +861,52 @@
       {
         "title": "九上语文教材",
         "icon": "📝",
-        "desc": "免费下载~",
+        "desc": "人教版2026秋新版",
         "date": "2026-08-03",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上语文教材.pdf"
       },
       {
         "title": "九上英语教材",
         "icon": "📝",
-        "desc": "免费下载~",
+        "desc": "译林版2026秋新版",
         "date": "2026-08-03",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上英语电子教材.pdf"
       },
       {
         "title": "九上数学教材",
         "icon": "📝",
-        "desc": "免费下载",
+        "desc": "苏科版2026秋新版",
         "date": "2026-08-04",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上数学教材.pdf"
       },
       {
         "title": "九上物理教材",
         "icon": "📝",
-        "desc": "免费下载~",
+        "desc": "苏科版2026秋新版",
         "date": "2026-08-26",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上物理教材.pdf"
-      }
+      },
+      {
+        "title": "九上历史教材",
+        "icon": "📝",
+        "desc": "人教版2026秋新版",
+        "date": "2026-08-27",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上历史教材.pdf"
+      },
+      {
+        "title": "九上道法教材",
+        "icon": "📝",
+        "desc": "人教版2026秋新版",
+        "date": "2026-08-27",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上道法教材.pdf"
+      },
+      {
+        "title": "九上化学教材",
+        "icon": "📝",
+        "desc": "沪教版2026秋新版",
+        "date": "2026-08-27",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上化学教材.pdf"
+      },
     ]
   },
   {    
