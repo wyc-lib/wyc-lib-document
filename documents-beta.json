@@ -1407,11 +1407,32 @@
         "desc": "九上所有知识清单答案，来源于企业微信",
         "files": [
               {
-                 "title": "占位文件",
+                 "title": "九上第1课题目",
                  "icon": "📝",
-                 "desc": "尚未上线，请勿点击下载",
+                 "desc": "从原始社会到奴隶社会【链接维护中】",
                  "date": "2026-09-01",
-                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/占位.pdf"
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第1课题目.docx"
+              },
+              {
+                 "title": "九上第1课答案",
+                 "icon": "📝",
+                 "desc": "从原始社会到奴隶社会【链接维护中】",
+                 "date": "2026-09-01",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第1课答案.docx"
+              },
+              {
+                 "title": "九上第2课题目",
+                 "icon": "📝",
+                 "desc": "古代两河流域【链接维护中】",
+                 "date": "2026-09-01",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第2课题目.docx"
+              },
+              {
+                 "title": "九上第2课答案",
+                 "icon": "📝",
+                 "desc": "古代两河流域【链接维护中】",
+                 "date": "2026-09-01",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第2课题目.docx"
               }
         ]
       },
@@ -1442,18 +1463,18 @@
         "desc": "九上所有试卷题目，来源于企业微信",
         "files": [
               {
-                 "title": "占位文件",
+                 "title": "9月小诊断答案",
                  "icon": "📝",
-                 "desc": "尚未上线，请勿点击下载",
+                 "desc": "关于9月堂测答案，来源于企业微信",
                  "date": "2026-09-01",
-                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/占位.pdf"
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/9月堂测答案.docx"
               }
         ]
       },
       {
-        "name": "小程序内容",
+        "name": "重要文件",
         "icon": "📚",
-        "desc": "九上所有小程序发布内容，来源于企业微信",
+        "desc": "九上所有重要文件，来源于企业微信",
         "files": [
               {
                  "title": "占位文件",
