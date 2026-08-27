@@ -906,7 +906,7 @@
         "desc": "沪教版2026秋新版",
         "date": "2026-08-27",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上化学教材.pdf"
-      },
+      }
     ]
   },
   {    
@@ -1015,7 +1015,7 @@
     ]
   },
   {    
-    "name": "【应急】2026暑假历史知识清单",
+    "name": "2026暑假历史知识清单",
     "icon": "📚",
     "desc": "2026暑假作业中需要默写的知识清单",
     "files": [
