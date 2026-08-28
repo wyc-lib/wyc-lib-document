@@ -1,0 +1,34 @@
+{
+  "title": "常用直达",
+  "description": "将高频入口放在首页第一屏，便于快速进入学习场景。",
+  "items": [
+    {
+      "title": "资料总库",
+      "desc": "进入全部分类资料与搜索页。",
+      "icon": "📚",
+      "link": "library.html",
+      "tag": "总入口"
+    },
+    {
+      "title": "电子教材",
+      "desc": "快速查看常用电子教材与课本资料。",
+      "icon": "📘",
+      "link": "library.html?search=电子教材",
+      "tag": "高频"
+    },
+    {
+      "title": "真题试卷",
+      "desc": "集中进入历年真题、单元卷和阶段练习。",
+      "icon": "📝",
+      "link": "library.html?search=真题试卷",
+      "tag": "练习"
+    },
+    {
+      "title": "知识清单",
+      "desc": "适合背诵、复习和打印的重点整理入口。",
+      "icon": "🧾",
+      "link": "library.html?search=知识清单",
+      "tag": "复习"
+    }
+  ]
+}
