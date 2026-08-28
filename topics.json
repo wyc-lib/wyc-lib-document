@@ -1,48 +1,18 @@
 {
   "folders": [
     {
-      "name": "历史时间线",
+      "name": "全部历史知识清单",
       "icon": "🕰️",
-      "desc": "适合梳理朝代脉络、重大事件和阶段复习重点。",
+      "desc": "尚未上线",
       "files": [
         {
-          "title": "中国古代史时间线",
-          "desc": "从夏商周到明清的主线梳理。",
+          "title": "--",
+          "desc": "---",
           "icon": "📄",
           "file": "https://example.com/history-timeline.pdf",
-          "date": "2026-08-28"
+          "date": "2026-09-01"
         }
       ]
-    },
-    {
-      "name": "古诗文默写",
-      "icon": "📝",
-      "desc": "集中进入背诵默写、名句填空和高频考查内容。",
-      "files": [
-        {
-          "title": "初中古诗文默写清单",
-          "desc": "按课内篇目整理，可直接下载打印。",
-          "icon": "📄",
-          "file": "https://example.com/chinese-recitation.pdf",
-          "date": "2026-08-28"
-        }
-      ]
-    }
-  ],
-  "files": [
-    {
-      "title": "英语词汇专题汇总",
-      "desc": "适合按专题汇总单词、短语和核心句型资料。",
-      "icon": "🔤",
-      "file": "https://example.com/english-vocabulary.pdf",
-      "date": "2026-08-28"
-    },
-    {
-      "title": "理科公式与方程式",
-      "desc": "方便集中查看物理公式、化学方程式和易错点。",
-      "icon": "🧪",
-      "file": "https://example.com/science-formulas.pdf",
-      "date": "2026-08-28"
     }
   ]
 }
