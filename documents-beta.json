@@ -1315,7 +1315,7 @@
   {    
     "name": "八下物理学习资料",
     "icon": "📚",
-    "desc": "本文件夹内容：八年级下册所有物理学习资料",
+    "desc": "本文件夹内容：八下所有物理学习资料",
     "files": [
       {
         "title": "2026暑假物理卷1",
@@ -1484,11 +1484,25 @@
         "desc": "本文件夹内容：九上所有试卷及其他",
         "files": [
               {
-                 "title": "2026秋期中试卷",
+                 "title": "七上总知识清单",
                  "icon": "📝",
-                 "desc": "本资料内容：2026秋期中试卷",
-                 "date": "2026-09-01",
-                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/占位.pdf"
+                 "desc": "本资料内容：七上总知识清单",
+                 "date": "2026-08-26",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/七上知识清单（合）.pdf"
+              },
+              {
+                 "title": "七下总知识清单",
+                 "icon": "📝",
+                 "desc": "本资料内容：七下总知识清单",
+                 "date": "2026-08-26",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/七下知识清单（合）.pdf"
+              },
+              {
+                 "title": "八上总知识清单",
+                 "icon": "📝",
+                 "desc": "本资料内容：八上总知识清单",
+                 "date": "2026-08-26",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八年级上册知识清单.pdf"
               }
         ]
       }
@@ -1528,33 +1542,5 @@
         ]
       }
     ]
-  },
-  {    
-    "name": "2026暑假历史知识清单",
-    "icon": "📚",
-    "desc": "本文件夹内容：2026暑假作业中需要默写的知识清单",
-    "files": [
-              {
-                 "title": "七上总知识清单",
-                 "icon": "📝",
-                 "desc": "本资料内容：七上总知识清单",
-                 "date": "2026-08-26",
-                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/七上知识清单（合）.pdf"
-              },
-              {
-                 "title": "七下总知识清单",
-                 "icon": "📝",
-                 "desc": "本资料内容：七下总知识清单",
-                 "date": "2026-08-26",
-                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/七下知识清单（合）.pdf"
-              },
-             {
-                 "title": "八上总知识清单",
-                 "icon": "📝",
-                 "desc": "本资料内容：八上总知识清单",
-                 "date": "2026-08-26",
-                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八年级上册知识清单.pdf"
-              }
-        ]
-      }
+  }
 ]
