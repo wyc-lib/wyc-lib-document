@@ -1176,11 +1176,25 @@
         "desc": "本文件夹内容：中国特色社会主义进入新时代",
         "files": [
             { 
+              "title": "八下第18课题目",
+              "icon": "📝",
+              "desc": "本资料内容：擘画中国梦宏伟蓝图",
+              "date": "2026-08-29",
+              "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八下第18课题目.docx"
+            },
+            { 
               "title": "八下第18课答案",
               "icon": "📝",
               "desc": "本资料内容：擘画中国梦宏伟蓝图",
               "date": "2026-07-09",
               "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第18课 擘画中国梦宏伟蓝图 答案.docx"
+            },
+            {
+              "title": "八下第19课题目",
+              "icon": "📝",
+              "desc": "本资料内容：决胜全面建成小康社会",
+              "date": "2026-08-29",
+              "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八下第19课题目.docx"
             },
             {
               "title": "八下第19课答案",
@@ -1190,11 +1204,25 @@
               "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第19课 决胜全面建成小康社会 答案.docx"
             },
             {
+              "title": "八下第20课题目",
+              "icon": "📝",
+              "desc": "本资料内容：维护国家安全和推进祖国统一",
+              "date": "2026-08-29",
+              "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八下第20课题目.docx"
+            },
+            {
               "title": "八下第20课答案",
               "icon": "📝",
               "desc": "本资料内容：维护国家安全和推进祖国统一",
               "date": "2026-07-09",
               "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第20课 维护国家安全和推进祖国统一 答案.docx"
+            },
+            {
+              "title": "八下第21课题目",
+              "icon": "📝",
+              "desc": "本资料内容：构建人类命运共同体与中国特色大国外交",
+              "date": "2026-08-29",
+              "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八下第21课题目.docx"
             },
             {
               "title": "八下第21课答案",
@@ -1210,12 +1238,26 @@
         "icon": "📚",
         "desc": "本文件夹内容：全面建设社会主义现代化国家",
         "files": [
+           {
+              "title": "八下第22课题目",
+              "icon": "📝",
+              "desc": "本资料内容：实现第一个百年奋斗目标",
+              "date": "2026-08-29",
+              "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八下第22课题目.docx"
+            },
             {
               "title": "八下第22课答案",
               "icon": "📝",
               "desc": "本资料内容：实现第一个百年奋斗目标",
               "date": "2026-07-09",
               "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第22课 实现第一个百年奋斗目标 答案.docx"
+            },
+            {
+              "title": "八下第23课题目",
+              "icon": "📝",
+              "desc": "本资料内容：开启全面建设社会主义现代化国家新征程",
+              "date": "2026-08-29",
+              "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八下第23课题目.docx"
             },
             {
               "title": "八下第23课答案",
