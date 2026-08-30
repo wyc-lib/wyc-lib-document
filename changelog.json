@@ -2,6 +2,15 @@
   "title": "更新日志",
   "versions": [
     {
+      "version": "版本 | Version 1.1.4 Pro",
+      "date": "2026-08-30",
+      "content": [
+        "提升网页运行效率 | Improve webpage performance",
+        "优化网页动态效果 | Optimize webpage animations",
+        "新增密码保护功能 | Added password protection feature"
+      ]
+    },
+    {
       "version": "版本 | Version 1.1.4",
       "date": "2026-08-28",
       "content": [
