@@ -1341,6 +1341,97 @@
     ]
   },
   {    
+    "name": "七上全科电子教材",
+    "icon": "📚",
+    "desc": "本文件夹内容：七上主科新教材电子书",
+    "files": [
+      {
+        "title": "七上语文教材",
+        "icon": "📝",
+        "desc": "本资料内容：人教版2026秋新版语文教材",
+        "date": "2026-08-30",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/七上语文教材.pdf"
+      },
+      {
+        "title": "七上英语教材",
+        "icon": "📝",
+        "desc": "本资料内容：译林版2026秋新版英语教材",
+        "date": "2026-08-30",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/七上英语教材.pdf"
+      },
+      {
+        "title": "七上数学教材",
+        "icon": "📝",
+        "desc": "本资料内容：苏科版2026秋新版数学教材",
+        "date": "2026-08-30",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/七上数学教材.pdf"
+      },
+      {
+        "title": "七上历史教材",
+        "icon": "📝",
+        "desc": "本资料内容：人教版2026秋新版历史教材",
+        "date": "2026-08-30",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/七上历史教材.pdf"
+      },
+      {
+        "title": "七上道法教材",
+        "icon": "📝",
+        "desc": "本资料内容：人教版2026秋新版道法教材",
+        "date": "2026-08-30",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/七上道法教材.pdf"
+      }
+    ]
+  },
+  {    
+    "name": "八上全科电子教材",
+    "icon": "📚",
+    "desc": "本文件夹内容：八上主科新教材电子书",
+    "files": [
+      {
+        "title": "八上语文教材",
+        "icon": "📝",
+        "desc": "本资料内容：人教版2026秋新版语文教材",
+        "date": "2026-08-30",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上语文教材.pdf"
+      },
+      {
+        "title": "八上英语教材",
+        "icon": "📝",
+        "desc": "本资料内容：译林版2026秋新版英语教材",
+        "date": "2026-08-30",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上英语教材.pdf"
+      },
+      {
+        "title": "八上数学教材",
+        "icon": "📝",
+        "desc": "本资料内容：苏科版2026秋新版数学教材",
+        "date": "2026-08-30",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上数学教材.pdf"
+      },
+      {
+        "title": "八上物理教材",
+        "icon": "📝",
+        "desc": "本资料内容：苏科版2026秋新版物理教材",
+        "date": "2026-08-30",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上物理教材.pdf"
+      },
+      {
+        "title": "八上历史教材",
+        "icon": "📝",
+        "desc": "本资料内容：人教版2026秋新版历史教材",
+        "date": "2026-08-30",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上历史教材.pdf"
+      },
+      {
+        "title": "八上道法教材",
+        "icon": "📝",
+        "desc": "本资料内容：人教版2026秋新版道法教材",
+        "date": "2026-08-30",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八上道法教材.pdf"
+      }
+    ]
+  },
+  {    
     "name": "九上全科电子教材",
     "icon": "📚",
     "desc": "本文件夹内容：九上主科新教材电子书",
