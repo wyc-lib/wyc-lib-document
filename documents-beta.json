@@ -1504,28 +1504,44 @@
         "icon": "📝",
         "desc": "本资料内容：2026暑假数学DAY1-10预习打卡题目",
         "date": "2026-08-11",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/2026暑假预习1-10.pdf"
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/2026暑假预习1-10.pdf",
+        "lock": {
+            "enabled": true,
+            "password": "mathdk2601"
+        }
       },
       {
         "title": "DAY11-20打卡题目",
         "icon": "📝",
         "desc": "本资料内容：2026暑假数学DAY11-20预习打卡题目",
         "date": "2026-08-12",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/2026暑假预习11-20.pdf"
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/2026暑假预习11-20.pdf",
+        "lock": {
+            "enabled": true,
+            "password": "mathdk2602"
+        }
       },
       {
         "title": "DAY1-10打卡答案",
         "icon": "📝",
         "desc": "本资料内容：2026暑假数学DAY1-10预习打卡答案",
         "date": "2026-08-12",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/DAY1-10答案.pdf"
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/DAY1-10答案.pdf",
+        "lock": {
+            "enabled": true,
+            "password": "mathdk2601"
+        }
       },
       {
         "title": "DAY11-20打卡答案",
         "icon": "📝",
         "desc": "本资料内容：2026暑假数学DAY11-20预习打卡答案",
         "date": "2026-08-27",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/DAY11-20答案.pdf"
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/DAY11-20答案.pdf",
+        "lock": {
+            "enabled": true,
+            "password": "mathdk2602"
+        }
       }
     ]
   },
