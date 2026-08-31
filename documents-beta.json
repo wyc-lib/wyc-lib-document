@@ -1559,29 +1559,57 @@
                  "title": "九上第1课题目",
                  "icon": "📝",
                  "desc": "本资料内容：从原始社会到奴隶社会",
-                 "date": "2026-09-01",
+                 "date": "",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第1课题目.docx"
               },
               {
                  "title": "九上第1课答案",
                  "icon": "📝",
                  "desc": "本资料内容：从原始社会到奴隶社会",
-                 "date": "2026-09-01",
+                 "date": "",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第1课答案.docx"
               },
               {
                  "title": "九上第2课题目",
                  "icon": "📝",
                  "desc": "本资料内容：古代两河流域",
-                 "date": "2026-09-01",
+                 "date": "",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第2课题目.docx"
               },
               {
                  "title": "九上第2课答案",
                  "icon": "📝",
                  "desc": "本资料内容：古代两河流域",
-                 "date": "2026-09-01",
+                 "date": "",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第2课答案.docx"
+              },
+              {
+                 "title": "九上第3课题目",
+                 "icon": "📝",
+                 "desc": "本资料内容：古代埃及",
+                 "date": "",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第3课题目.docx"
+              },
+              {
+                 "title": "九上第3课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：古代埃及",
+                 "date": "",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第3课答案.docx"
+              },
+              {
+                 "title": "九上第4课题目",
+                 "icon": "📝",
+                 "desc": "本资料内容：古代印度",
+                 "date": "",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第4课题目.docx"
+              },
+              {
+                 "title": "九上第4课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：古代印度",
+                 "date": "",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第4课答案.docx"
               }
         ]
       },
