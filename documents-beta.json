@@ -1553,34 +1553,34 @@
       {
         "name": "知识清单",
         "icon": "📚",
-        "desc": "本文件夹内容：九上所有知识清单答案，来源于企业微信",
+        "desc": "本文件夹内容：九上所有知识清单答案",
         "files": [
               {
                  "title": "九上第1课题目",
                  "icon": "📝",
-                 "desc": "本资料内容：从原始社会到奴隶社会",
-                 "date": "",
+                 "desc": "本资料内容：【自制版】从原始社会到奴隶社会。",
+                 "date": "2026-09-04",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第1课题目.docx"
               },
               {
                  "title": "九上第1课答案",
                  "icon": "📝",
-                 "desc": "本资料内容：从原始社会到奴隶社会",
-                 "date": "",
+                 "desc": "本资料内容：【官方版】从原始社会到奴隶社会",
+                 "date": "2026-09-04",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第1课答案.docx"
               },
               {
                  "title": "九上第2课题目",
                  "icon": "📝",
-                 "desc": "本资料内容：古代两河流域",
-                 "date": "",
+                 "desc": "本资料内容：【自制版】古代两河流域",
+                 "date": "2026-09-04",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第2课题目.docx"
               },
               {
                  "title": "九上第2课答案",
                  "icon": "📝",
-                 "desc": "本资料内容：古代两河流域",
-                 "date": "",
+                 "desc": "本资料内容：【官方版】古代两河流域",
+                 "date": "2026-09-04",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第2课答案.docx"
               },
               {
