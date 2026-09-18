@@ -1614,7 +1614,7 @@
               {
                  "title": "九上第5课题目",
                  "icon": "📝",
-                 "desc": "本资料内容：【自制】古代埃希腊",
+                 "desc": "本资料内容：【官方】古代希腊",
                  "date": "2026-09-12",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第5课题目.docx"
               },
@@ -1628,7 +1628,7 @@
               {
                  "title": "九上第6课题目",
                  "icon": "📝",
-                 "desc": "本资料内容：【自制】古代罗马",
+                 "desc": "本资料内容：【官方】古代罗马",
                  "date": "2026-09-12",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第6课题目.docx"
               },
@@ -1638,6 +1638,48 @@
                  "desc": "本资料内容：【官方】古代罗马",
                  "date": "2026-09-12",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第6课答案.docx"
+              },
+          {
+                 "title": "九上第7课题目",
+                 "icon": "📝",
+                 "desc": "本资料内容：【自制】法兰克王国和西欧封建制度",
+                 "date": "2026-09-18",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第7课题目.docx"
+              },
+              {
+                 "title": "九上第7课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：【官方】法兰克王国和西欧封建制度",
+                 "date": "2026-09-18",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第7课答案.docx"
+              },
+              {
+                 "title": "九上第8课题目",
+                 "icon": "📝",
+                 "desc": "本资料内容：【自制】西欧的城市和大学",
+                 "date": "2026-09-18",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第8课题目.docx"
+              },
+              {
+                 "title": "九上第8课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：【官方】西欧的城市和大学",
+                 "date": "2026-09-18",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第8课答案.docx"
+              },
+              {
+                 "title": "九上第9课题目",
+                 "icon": "📝",
+                 "desc": "本资料内容：【自制】拜占庭帝国",
+                 "date": "2026-09-18",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第9课题目.docx"
+              },
+              {
+                 "title": "九上第9课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：【官方】拜占庭帝国",
+                 "date": "2026-09-18",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第9课答案.docx"
               }
         ]
       },
