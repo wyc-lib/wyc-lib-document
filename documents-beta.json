@@ -1538,25 +1538,26 @@
         "desc": "本资料内容：2026暑假数学DAY11-20预习打卡答案",
         "date": "2026-08-27",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/DAY11-20答案.pdf",
-        "lock": {
-            "enabled": true,
-            "password": "mathdk2602"
-        },
-      }
-        {
+         "lock": {
+          "enabled": true,
+          "password": "mathdk2602"
+        }
+      },
+      {
         "title": "周练1题目",
         "icon": "📝",
         "desc": "本资料内容：周练1题目",
         "date": "2026-09-25",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练1题目.pdf"
-        },
-        {
+      },
+      {
         "title": "周练1答案",
         "icon": "📝",
         "desc": "本资料内容：周练1答案",
         "date": "2026-09-25",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练1答案.pdf"
-        }
+      }
+    ]
       }
     ]
   },
