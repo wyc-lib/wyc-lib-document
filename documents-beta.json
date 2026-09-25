@@ -1541,6 +1541,20 @@
         "lock": {
             "enabled": true,
             "password": "mathdk2602"
+        },
+        {
+        "title": "周练1题目",
+        "icon": "📝",
+        "desc": "本资料内容：周练1题目",
+        "date": "2026-09-25",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练1题目.pdf"
+        },
+        {
+        "title": "周练1答案",
+        "icon": "📝",
+        "desc": "本资料内容：周练1答案",
+        "date": "2026-09-25",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练1答案.pdf"
         }
       }
     ]
@@ -1642,7 +1656,7 @@
           {
                  "title": "九上第7课题目",
                  "icon": "📝",
-                 "desc": "本资料内容：【自制】法兰克王国和西欧封建制度",
+                 "desc": "本资料内容：【官方】法兰克王国和西欧封建制度",
                  "date": "2026-09-18",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第7课题目.docx"
               },
@@ -1656,7 +1670,7 @@
               {
                  "title": "九上第8课题目",
                  "icon": "📝",
-                 "desc": "本资料内容：【自制】西欧的城市和大学",
+                 "desc": "本资料内容：【官方】西欧的城市和大学",
                  "date": "2026-09-18",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第8课题目.docx"
               },
@@ -1670,7 +1684,7 @@
               {
                  "title": "九上第9课题目",
                  "icon": "📝",
-                 "desc": "本资料内容：【自制】拜占庭帝国",
+                 "desc": "本资料内容：【官方】拜占庭帝国",
                  "date": "2026-09-18",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第9课题目.docx"
               },
@@ -1680,6 +1694,48 @@
                  "desc": "本资料内容：【官方】拜占庭帝国",
                  "date": "2026-09-18",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第9课答案.docx"
+              },
+              {
+                 "title": "九上第10课题目",
+                 "icon": "📝",
+                 "desc": "本资料内容：【官方】封建时代的日本",
+                 "date": "2026-09-25",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第10课题目.docx"
+              },
+              {
+                 "title": "九上第10课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：【官方】封建时代的日本",
+                 "date": "2026-09-25",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第10课答案.docx"
+              },
+              {
+                 "title": "九上第11课题目",
+                 "icon": "📝",
+                 "desc": "本资料内容：【官方】阿拉伯帝国",
+                 "date": "2026-09-25",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第11课题目.docx"
+              },
+              {
+                 "title": "九上第11课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：【官方】阿拉伯帝国",
+                 "date": "2026-09-25",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第11课答案.docx"
+              },
+              {
+                 "title": "九上第12课题目",
+                 "icon": "📝",
+                 "desc": "本资料内容：【官方】中古时期的非洲和美洲",
+                 "date": "2026-09-25",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第12课题目.docx"
+              },
+              {
+                 "title": "九上第12课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：【官方】中古时期的非洲和美洲",
+                 "date": "2026-09-25",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第12课答案.docx"
               }
         ]
       },
