@@ -2,6 +2,15 @@
   "title": "更新日志",
   "versions": [
     {
+      "version": "版本 | Version 1.1.5",
+      "date": "2026-10-01",
+      "content": [
+        "优化网页排版功能 | Optimize webpage layout features",
+        "语言通知按钮优化 | Language and notification button optimization",
+        "解决文件加载问题 | Fix the file loading problem"
+      ]
+    },
+    {
       "version": "版本 | Version 1.1.4 Pro",
       "date": "2026-08-30",
       "content": [
