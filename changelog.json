@@ -6,8 +6,11 @@
       "date": "2026-10-01",
       "content": [
         "优化网页排版功能 | Optimize webpage layout features",
-        "语言通知按钮优化 | Language and notification button optimization",
-        "解决文件加载问题 | Fix the file loading problem"
+        "语言通知功能优化 | Language and notification optimization",
+        "解决文件加载问题 | Fix the file loading problem",
+        "新增复制链接功能 | Added a copy link feature",
+        "搜索功能全新优化 | Search feature completely revamped",
+        "批量下载漏洞修复 | Batch download vulnerability fixes"
       ]
     },
     {
