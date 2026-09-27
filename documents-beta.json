@@ -1565,9 +1565,9 @@
     "desc": "本文件夹内容：九上所有历史学习资料",
     "folders": [
       {
-        "name": "知识清单（自制版）",
+        "name": "知识清单 优化版",
         "icon": "📚",
-        "desc": "本文件夹内容：九上知识清单题目和答案（自制版）",
+        "desc": "本文件夹内容：九上优化版题目和答案",
         "files": [
               {
                  "title": "九上第1课题目",
@@ -1740,9 +1740,9 @@
         ]
       },
       {
-        "name": "知识清单（官方版）",
+        "name": "知识清单 官方版",
         "icon": "📚",
-        "desc": "本文件夹内容：九上知识清单题目和答案（官方版）",
+        "desc": "本文件夹内容：九上官方版题目和答案",
         "files": [
               {
                  "title": "九上1-2课题目",
@@ -1805,7 +1805,7 @@
                  "icon": "📝",
                  "desc": "本资料内容：无介绍",
                  "date": "2026-09-27",
-                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上10-12课题目.docx"
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上10-12课答案.docx"
               },
               {
                  "title": "九上13-15课答案",
