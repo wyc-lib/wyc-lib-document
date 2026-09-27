@@ -1565,9 +1565,9 @@
     "desc": "本文件夹内容：九上所有历史学习资料",
     "folders": [
       {
-        "name": "知识清单",
+        "name": "知识清单（自制版）",
         "icon": "📚",
-        "desc": "本文件夹内容：九上所有知识清单答案",
+        "desc": "本文件夹内容：九上知识清单题目和答案（自制版）",
         "files": [
               {
                  "title": "九上第1课题目",
@@ -1736,6 +1736,90 @@
                  "desc": "本资料内容：【官方】中古时期的非洲和美洲",
                  "date": "2026-09-25",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第12课答案.docx"
+              }
+        ]
+      },
+      {
+        "name": "知识清单（官方版）",
+        "icon": "📚",
+        "desc": "本文件夹内容：九上知识清单题目和答案（官方版）",
+        "files": [
+              {
+                 "title": "九上1-2课题目",
+                 "icon": "📝",
+                 "desc": "本资料内容：无介绍",
+                 "date": "2026-09-27",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上1-2课题目.docx"
+              },
+              {
+                 "title": "九上1-2课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：无介绍",
+                 "date": "2026-09-27",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上1-2课答案.docx"
+              },
+              {
+                 "title": "九上3-4课题目",
+                 "icon": "📝",
+                 "desc": "本资料内容：无介绍",
+                 "date": "2026-09-27",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上3-4课题目.docx"
+              },
+              {
+                 "title": "九上3-4课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：无介绍",
+                 "date": "2026-09-27",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上3-4课答案.docx"
+              },
+              {
+                 "title": "九上5-6课题目",
+                 "icon": "📝",
+                 "desc": "本资料内容：无介绍",
+                 "date": "2026-09-27",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上5-6课题目.docx"
+              },
+              {
+                 "title": "九上5-6课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：无介绍",
+                 "date": "2026-09-27",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上5-6课答案.docx"
+              },
+              {
+                 "title": "九上7-9课题目",
+                 "icon": "📝",
+                 "desc": "本资料内容：无介绍",
+                 "date": "2026-09-27",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上7-9课题目.docx"
+              },
+              {
+                 "title": "九上7-9课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：无介绍",
+                 "date": "2026-09-27",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上7-9课答案.docx"
+              },
+              {
+                 "title": "九上10-12课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：无介绍",
+                 "date": "2026-09-27",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上10-12课题目.docx"
+              },
+              {
+                 "title": "九上13-15课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：无介绍",
+                 "date": "2026-09-27",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上13-15课答案.docx"
+              },
+              {
+                 "title": "九上总答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：无介绍",
+                 "date": "2026-09-27",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上总答案.docx"
               }
         ]
       },
