@@ -3,12 +3,30 @@
   "items": [
     {
       "title": "欢迎访问学习资料库！",
-      "subtitle": "点击进入学校官网~",
+      "subtitle": "愿知识在此传递，伴你持续成长。",
       "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/1433.png",
-      "alt": "图片备注不知道写啥了，反正祝124699哈~",
+      "alt": "资料库背景",
       "link": "https://wyc-lib.pages.dev",
-      "newTab": true,
-      "enabled": true
+      "newTab": false,
+      "enabled": false
+    },
+    {
+      "title": "2026年国庆节快乐",
+      "subtitle": "红旗漫卷，山河壮丽，共贺祖国华诞。",
+      "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/fall.png",
+      "alt": "秋天",
+      "link": "https://wyc-lib.pages.dev",
+      "newTab": false,
+      "enabled": false
+    },
+    {
+      "title": "今日化学作业上新啦",
+      "subtitle": "前往主页，查看详情内容",
+      "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/fall.png",
+      "alt": "实验",
+      "link": "https://wyc-lib.pages.dev",
+      "newTab": false,
+      "enabled": false
     }
   ]
 }
