@@ -8,7 +8,7 @@
       "alt": "资料库背景",
       "link": "https://wyc-lib.pages.dev",
       "newTab": false,
-      "enabled": false
+      "enabled": true
     },
     {
       "title": "2026年国庆节快乐",
@@ -17,7 +17,7 @@
       "alt": "秋天",
       "link": "https://wyc-lib.pages.dev",
       "newTab": false,
-      "enabled": false
+      "enabled": true
     },
     {
       "title": "今日化学作业上新啦",
@@ -26,7 +26,7 @@
       "alt": "实验",
       "link": "https://wyc-lib.pages.dev",
       "newTab": false,
-      "enabled": false
+      "enabled": true
     }
   ]
 }
