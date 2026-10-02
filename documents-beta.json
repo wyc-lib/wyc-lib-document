@@ -1594,14 +1594,14 @@
     "desc": "本文件夹内容：九上所有英语学习资料",
     "files": [
         {
-        "title": "九上英语课课练答案",
-        "icon": "📝",
-        "desc": "本资料内容：周练1答案",
-        "date": "2026-10-02",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上英语课课练答案.pdf",
-        "lock": {
-          "enabled": true,
-          "password": "9AKKLA"
+              "title": "九上英语课课练答案",
+              "icon": "📝",
+              "desc": "本资料内容：九上英语课课练答案",
+              "date": "2026-10-02",
+              "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上英语课课练答案.pdf",
+              "lock": {
+                  "enabled": true,
+                  "password": "9AKKLA"
         }
         }
     ]
