@@ -1548,15 +1548,62 @@
         "icon": "📝",
         "desc": "本资料内容：周练1题目",
         "date": "2026-09-25",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练1题目.pdf"
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练1题目.pdf",
+        "lock": {
+          "enabled": true,
+          "password": "9AWEEK1Q"
+        }
       },
       {
         "title": "周练1答案",
         "icon": "📝",
         "desc": "本资料内容：周练1答案",
         "date": "2026-09-25",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练1答案.pdf"
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练1答案.pdf",
+        "lock": {
+          "enabled": true,
+          "password": "9AWEEK1A"
+        },
+        {
+        "title": "周练2题目",
+        "icon": "📝",
+        "desc": "本资料内容：周练2题目",
+        "date": "2026-10-02",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练2题目.pdf",
+        "lock": {
+          "enabled": true,
+          "password": "9AWEEK2Q"
+        }
+      },
+      {
+        "title": "周练2答案",
+        "icon": "📝",
+        "desc": "本资料内容：周练2答案",
+        "date": "2026-10-02",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练2答案.pdf",
+        "lock": {
+          "enabled": true,
+          "password": "9AWEEK2A"
+        }
       }
+    ]
+  },
+  {    
+    "name": "九上英语学习资料",
+    "icon": "📚",
+    "desc": "本文件夹内容：九上所有英语学习资料",
+    "files": [
+        {
+        "title": "九上英语课课练答案",
+        "icon": "📝",
+        "desc": "本资料内容：周练1答案",
+        "date": "2026-10-02",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上英语课课练答案.pdf",
+        "lock": {
+          "enabled": true,
+          "password": "9AKKLA"
+        }
+        }
     ]
   },
   {    
@@ -1736,6 +1783,48 @@
                  "desc": "本资料内容：【官方】中古时期的非洲和美洲",
                  "date": "2026-09-25",
                  "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第12课答案.docx"
+              },
+              {
+                 "title": "九上第13课题目",
+                 "icon": "📝",
+                 "desc": "本资料内容：【官方】西欧经济社会发展与文艺复兴运动",
+                 "date": "2026-10-02",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第13课题目.docx"
+              },
+              {
+                 "title": "九上第13课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：【官方】西欧经济社会发展与文艺复兴运动",
+                 "date": "2026-10-02",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第13课答案.docx"
+              },
+              {
+                 "title": "九上第14课题目",
+                 "icon": "📝",
+                 "desc": "本资料内容：【官方】探寻新航路",
+                 "date": "2026-10-02",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第14课题目.docx"
+              },
+              {
+                 "title": "九上第14课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：【官方】探寻新航路",
+                 "date": "2026-10-02",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第14课答案.docx"
+              },
+              {
+                 "title": "九上第15课题目",
+                 "icon": "📝",
+                 "desc": "本资料内容：【官方】早期殖民统治",
+                 "date": "2026-10-02",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第15课题目.docx"
+              },
+              {
+                 "title": "九上第15课答案",
+                 "icon": "📝",
+                 "desc": "本资料内容：【官方】早期殖民统治",
+                 "date": "2026-10-02",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第15课答案.docx"
               }
         ]
       },
@@ -1887,5 +1976,19 @@
         ]
       }
     ]
+  },
+  {
+        "name": "九上道法学习资料",
+        "icon": "📚",
+        "desc": "本文件夹内容：九上所有道法学习资料",
+        "files": [
+              {
+                 "title": "九上道法答题方法指导",
+                 "icon": "📝",
+                 "desc": "本资料内容：九上必背内容",
+                 "date": "2026-10-02",
+                 "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上道法答题方法指导.docx"
+              }
+        ]
   }
 ]
