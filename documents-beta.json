@@ -1585,13 +1585,14 @@
         "lock": {
           "enabled": true,
           "password": "9AWEEK2A"
-        },
-        {
+        }
+      },
+      {
         "title": "202409月考",
         "icon": "📝",
         "desc": "本资料内容：202409月考",
         "date": "2026-10-02",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/202409月考",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/202409月考.docx",
         "lock": {
           "enabled": true,
           "password": "9A2409YK"
