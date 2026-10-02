@@ -1563,8 +1563,9 @@
         "lock": {
           "enabled": true,
           "password": "9AWEEK1A"
-        },
-        {
+        }
+      },
+      {
         "title": "周练2题目",
         "icon": "📝",
         "desc": "本资料内容：周练2题目",
