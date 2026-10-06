@@ -17,6 +17,13 @@
       "repeat": false
     },
     {
+      "name": "春节",
+      "date": "2027-02-06",
+      "icon": "🧧",
+      "color": "red",
+      "repeat": false
+    },
+    {
       "name": "中考",
       "date": "2027-06-17",
       "icon": "📝",
