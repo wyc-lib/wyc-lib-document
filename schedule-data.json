@@ -4,18 +4,8 @@
   "countdowns": [],
   "_examples": {
     "adjustment": {
-      "date": "2026-10-08",
-      "period": 3,
-      "from": "语文",
-      "to": "数学",
-      "note": "改到实验楼上课"
     },
     "countdown": {
-      "name": "期中考试",
-      "date": "2026-11-10",
-      "icon": "📝",
-      "color": "blue",
-      "repeat": false
     }
   }
 }
