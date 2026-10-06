@@ -1,11 +1,31 @@
 {
-  "updatedAt": "2026-10-06",
+  "updatedAt": "2026-10-07",
   "adjustments": [],
-  "countdowns": [],
-  "_examples": {
-    "adjustment": {
+  "countdowns": [
+    {
+      "name": "运动会",
+      "date": "2026-10-15",
+      "icon": "🏃",
+      "color": "orange",
+      "repeat": false
     },
-    "countdown": {
+    {
+      "name": "新年",
+      "date": "2027-01-01",
+      "icon": "🎉",
+      "color": "red",
+      "repeat": false
+    },
+    {
+      "name": "中考",
+      "date": "2027-06-17",
+      "icon": "📝",
+      "color": "blue",
+      "repeat": false
     }
+  ],
+  "_examples": {
+    "adjustment": {},
+    "countdown": {}
   }
 }
