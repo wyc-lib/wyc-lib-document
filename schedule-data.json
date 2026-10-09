@@ -1,11 +1,25 @@
 {
-  "updatedAt": "2026-10-07",
+  "updatedAt": "2026-10-09",
   "adjustments": [],
   "countdowns": [
+    {
+      "name": "U1-3英语考试",
+      "date": "2026-10-14",
+      "icon": "📝",
+      "color": "blue",
+      "repeat": false
+    },
     {
       "name": "运动会",
       "date": "2026-10-15",
       "icon": "🏃",
+      "color": "orange",
+      "repeat": false
+    },
+    {
+      "name": "秋游",
+      "date": "2026-10-16",
+      "icon": "🚌",
       "color": "orange",
       "repeat": false
     },
