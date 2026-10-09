@@ -1611,6 +1611,20 @@
           "enabled": true,
           "password": "9AKKLA"
         }
+      },
+      {
+        "title": "作文纸",
+        "icon": "📄",
+        "desc": "本资料内容：作文纸",
+        "date": "2026-10-09",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/作文纸.pdf"
+      },
+      {
+        "title": "AB卷答卷",
+        "icon": "📝",
+        "desc": "本资料内容：AB卷答卷",
+        "date": "2026-10-09",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/AB卷答卷.docx"
       }
     ]
   },
