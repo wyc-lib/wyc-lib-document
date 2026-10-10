@@ -2,6 +2,16 @@
   "title": "更新日志",
   "versions": [
     {
+      "version": "版本 | Version 1.2.1",
+      "date": "2026-10-10",
+      "content": [
+        "全面升级网页架构 | Fully upgrade the web architecture",
+        "工作站可整合网页 | Workstation can integrate web pages",
+        "时间表可记录课程 | Schedule can keep track of classes",
+        "修复资料库的漏洞 | Fix the database's vulnerabilities"
+      ]
+    },
+    {
       "version": "版本 | Version 1.1.5",
       "date": "2026-10-01",
       "content": [
