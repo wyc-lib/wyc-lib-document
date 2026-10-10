@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-10-09",
-  "adjustments": [],
+  "updatedAt": "2026-10-10",
+  "adjustments": [
+    {
+      "date": "2026-10-13",
+      "title": "化学课调整",
+      "detail": "上午第1节化学和上周六第6节数学对调"
+    }
+  ],
   "countdowns": [
     {
       "name": "U1-3英语考试",
