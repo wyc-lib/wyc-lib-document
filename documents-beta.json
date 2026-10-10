@@ -1625,6 +1625,13 @@
         "desc": "本资料内容：AB卷答卷",
         "date": "2026-10-09",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/AB卷答卷.docx"
+      },
+      {
+        "title": "答卷",
+        "icon": "📄",
+        "desc": "本资料内容：答卷",
+        "date": "2026-10-10",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/答卷.pdf"
       }
     ]
   },
