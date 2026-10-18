@@ -1584,6 +1584,28 @@
         }
       },
       {
+        "title": "周练3题目",
+        "icon": "📝",
+        "desc": "本资料内容：周练3题目",
+        "date": "2026-10-18",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练3题目.pdf",
+        "lock": {
+          "enabled": true,
+          "password": "9AWEEK3Q"
+        }
+      },
+      {
+        "title": "周练3答案",
+        "icon": "📝",
+        "desc": "本资料内容：周练3答案",
+        "date": "2026-10-18",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练3答案.docx",
+        "lock": {
+          "enabled": true,
+          "password": "9AWEEK3A"
+        }
+      },
+      {
         "title": "202409月考",
         "icon": "📝",
         "desc": "本资料内容：202409月考",
