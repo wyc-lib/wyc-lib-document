@@ -2,6 +2,15 @@
   "title": "更新日志",
   "versions": [
     {
+      "version": "版本 | Version 1.2.2",
+      "date": "时间未定",
+      "content": [
+        "网站页面适配手机 | Website pages fit for mobile",
+        "新增PWA应用模式 | Add a new PWA app mode",
+        "该更新仅适用于学习资料库 | Only for wyc-lib"
+      ]
+    },
+    {
       "version": "版本 | Version 1.2.1",
       "date": "2026-10-10",
       "content": [
