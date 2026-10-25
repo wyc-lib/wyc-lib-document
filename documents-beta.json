@@ -1752,18 +1752,18 @@
             "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上13-15课答案.docx"
           },
           {
-            "title": "九上总知识清单",
-            "icon": "📝",
-            "desc": "本资料内容：九上历史总知识清单",
-            "date": "2026-10-25",
-            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上总知识清单.pdf"
-          },
-          {
             "title": "九上19-21课答案",
             "icon": "📝",
             "desc": "本资料内容：九上历史第19-21课答案",
             "date": "2026-10-25",
             "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上19-21课答案.docx"
+          },
+          {
+            "title": "九上总知识清单",
+            "icon": "📝",
+            "desc": "本资料内容：九上历史总知识清单",
+            "date": "2026-10-25",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上总知识清单.pdf"
           }
         ]
       },
@@ -1801,35 +1801,14 @@
     "name": "九上语文学习资料",
     "icon": "📚",
     "desc": "本文件夹内容：九上所有语文学习资料",
-    "folders": [
-      {
-        "name": "试卷题目",
-        "icon": "📚",
-        "desc": "本文件夹内容：九上所有试卷题目",
-        "files": [
+    "files": [
           {
-            "title": "9月小诊断答案",
+            "title": "九上第三单元知识清单",
             "icon": "📝",
-            "desc": "本资料内容：关于9月堂测答案",
-            "date": "2026-09-01",
-            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/9月堂测答案.docx"
-          }
-        ]
-      },
-      {
-        "name": "重要文件",
-        "icon": "📚",
-        "desc": "本文件夹内容：九上所有重要文件",
-        "files": [
-          {
-            "title": "九上必背内容",
-            "icon": "📝",
-            "desc": "本资料内容：九上必背内容",
-            "date": "2026-09-01",
-            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/占位.pdf"
-          }
-        ]
-      }
+            "desc": "本资料内容：无介绍",
+            "date": "2026-10-25",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第三单元知识清单.docx"
+          } 
     ]
   },
   {
