@@ -2,31 +2,22 @@
   "interval": 5000,
   "items": [
     {
-      "title": "欢迎访问学习资料库！",
+      "title": "欢迎访问学习工作站！",
       "subtitle": "愿知识在此传递，伴你持续成长。",
       "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/1433.png",
-      "alt": "资料库背景",
-      "link": "https://wyc-lib.pages.dev",
+      "alt": "工作站背景",
+      "link": "https://wyc-work.pages.dev",
       "newTab": false,
       "enabled": true
     },
     {
-      "title": "2026年国庆节快乐",
-      "subtitle": "红旗漫卷，山河壮丽，共贺祖国华诞。",
+      "title": "停车坐爱枫林晚，霜叶红于二月花",
+      "subtitle": "秋日漫漫，欢迎访问学习工作站",
       "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/fall.png",
       "alt": "秋天",
-      "link": "https://wyc-lib.pages.dev",
+      "link": "https://wyc-work.pages.dev",
       "newTab": false,
       "enabled": true
-    },
-    {
-      "title": "今日化学作业上新啦",
-      "subtitle": "前往主页，查看详情内容",
-      "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/化学作业.png",
-      "alt": "实验",
-      "link": "https://wyc-lib.pages.dev",
-      "newTab": false,
-      "enabled": false
     }
   ]
 }
