@@ -1663,7 +1663,7 @@
     "desc": "本文件夹内容：九上所有历史学习资料",
     "folders": [
       {
-        "name": "知识清单 官方版",
+        "name": "知识清单",
         "icon": "📚",
         "desc": "本文件夹内容：九上官方版题目和答案",
         "files": [
@@ -1752,11 +1752,18 @@
             "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上13-15课答案.docx"
           },
           {
-            "title": "九上总答案",
+            "title": "九上总知识清单",
             "icon": "📝",
-            "desc": "本资料内容：无介绍",
-            "date": "2026-09-27",
-            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上总答案.docx"
+            "desc": "本资料内容：九上历史总知识清单",
+            "date": "2026-10-25",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上总知识清单.pdf"
+          },
+          {
+            "title": "九上19-21课答案",
+            "icon": "📝",
+            "desc": "本资料内容：九上历史第19-21课答案",
+            "date": "2026-10-25",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上19-21课答案.docx"
           }
         ]
       },
