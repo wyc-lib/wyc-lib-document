@@ -1752,6 +1752,20 @@
             "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上13-15课答案.docx"
           },
           {
+            "title": "九上16-18课题目",
+            "icon": "📝",
+            "desc": "本资料内容：无介绍",
+            "date": "2026-10-25",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上16-18课题目.docx"
+          },
+          {
+            "title": "九上16-18课答案",
+            "icon": "📝",
+            "desc": "本资料内容：无介绍",
+            "date": "2026-10-25",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上16-18课答案.docx"
+          },
+          {
             "title": "九上19-21课答案",
             "icon": "📝",
             "desc": "本资料内容：九上历史第19-21课答案",
@@ -1802,13 +1816,13 @@
     "icon": "📚",
     "desc": "本文件夹内容：九上所有语文学习资料",
     "files": [
-          {
-            "title": "九上第三单元知识清单",
-            "icon": "📝",
-            "desc": "本资料内容：无介绍",
-            "date": "2026-10-25",
-            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第三单元知识清单.docx"
-          } 
+      {
+        "title": "九上第三单元知识清单",
+        "icon": "📝",
+        "desc": "本资料内容：无介绍",
+        "date": "2026-10-25",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第三单元知识清单.docx"
+      }
     ]
   },
   {
