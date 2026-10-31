@@ -1606,14 +1606,34 @@
         }
       },
       {
-        "title": "202409月考",
+        "title": "202409平江月考",
         "icon": "📝",
-        "desc": "本资料内容：202409月考",
+        "desc": "本资料内容：202409平江月考",
         "date": "2026-10-02",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/202409月考.docx",
         "lock": {
           "enabled": true,
           "password": "9A2409YK"
+        },
+        {
+        "title": "作业1-2答案",
+        "icon": "📝",
+        "desc": "本资料内容：作业1-2答案",
+        "date": "2026-10-31",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/作业1-2答案.pdf",
+        "lock": {
+          "enabled": true,
+          "password": "12345678"
+        },
+        {
+        "title": "作业1-3题目",
+        "icon": "📝",
+        "desc": "本资料内容：作业1-3题目",
+        "date": "2026-10-31",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/作业1-3题目.pdf",
+        "lock": {
+          "enabled": true,
+          "password": "12345678"
         }
       }
     ]
@@ -1654,6 +1674,27 @@
         "desc": "本资料内容：答卷",
         "date": "2026-10-10",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/答卷.pdf"
+      },
+      {
+        "title": "AB卷作文范文",
+        "icon": "📄",
+        "desc": "本资料内容：来源于QQ群",
+        "date": "2026-10-31",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/AB卷作文范文.pdf"
+      },
+      {
+        "title": "U2词组默写",
+        "icon": "📄",
+        "desc": "本资料内容：来源于QQ群",
+        "date": "2026-10-31",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/U2词组默写.docx"
+      },
+      {
+        "title": "U3词组默写",
+        "icon": "📄",
+        "desc": "本资料内容：来源于QQ群",
+        "date": "2026-10-31",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/U3词组默写.doc"
       }
     ]
   },
@@ -1836,6 +1877,20 @@
         "desc": "本资料内容：九上必背内容",
         "date": "2026-10-02",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上道法答题方法指导.docx"
+      },
+      {
+        "title": "九上道法答题方法指导2",
+        "icon": "📄",
+        "desc": "本资料内容：九上必背内容",
+        "date": "2026-10-31",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上道法答题方法指导2.docx"
+      },
+      {
+        "title": "图表信息题归纳",
+        "icon": "📄",
+        "desc": "本资料内容：九上必背内容",
+        "date": "2026-10-31",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/图表信息题归纳.pdf"
       }
     ]
   },
