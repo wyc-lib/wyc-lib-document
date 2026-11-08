@@ -1606,6 +1606,28 @@
         }
       },
       {
+        "title": "周练4题目",
+        "icon": "📝",
+        "desc": "本资料内容：周练4题目",
+        "date": "2026-11-08",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练习4题目.pdf",
+        "lock": {
+          "enabled": true,
+          "password": "9AWEEK4Q"
+        }
+      },
+      {
+        "title": "周练4答案",
+        "icon": "📝",
+        "desc": "本资料内容：周练4答案",
+        "date": "2026-11-08",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练习4答案.pdf",
+        "lock": {
+          "enabled": true,
+          "password": "9AWEEK4A"
+        }
+      },
+      {
         "title": "202409平江月考",
         "icon": "📝",
         "desc": "本资料内容：202409平江月考",
@@ -1636,8 +1658,22 @@
         "lock": {
           "enabled": true,
           "password": "12345678"
-        }
+        },
       }
+      {
+        "title": "期中模拟练习题目",
+        "icon": "📄",
+        "desc": "本资料内容：期中模拟练习题目",
+        "date": "2026-11-08",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/期中模拟练习题目.pdf"
+      },
+      {
+        "title": "期中模拟练习答案",
+        "icon": "📄",
+        "desc": "本资料内容：期中模拟练习答案",
+        "date": "2026-11-08",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/期中模拟练习答案.pdf"
+      }   
     ]
   },
   {
@@ -1849,6 +1885,20 @@
             "desc": "本资料内容：八上总知识清单",
             "date": "2026-08-26",
             "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八年级上册知识清单.pdf"
+          },
+          {
+            "title": "九上历史小论文",
+            "icon": "📝",
+            "desc": "本资料内容：九上历史小论文",
+            "date": "2026-11-08",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上历史小论文.docx"
+          },
+          {
+            "title": "九上历史选择题专练",
+            "icon": "📝",
+            "desc": "本资料内容：九上历史选择题专练",
+            "date": "2026-11-08",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上历史选择题专练.docx"
           }
         ]
       }
@@ -1893,6 +1943,13 @@
         "desc": "本资料内容：九上必背内容",
         "date": "2026-10-31",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/图表信息题归纳.pdf"
+      },
+      {
+        "title": "九上道法教材应知应会",
+        "icon": "📄",
+        "desc": "本资料内容：九上道法教材应知应会",
+        "date": "2026-11-08",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上道法教材应知应会.pdf"
       }
     ]
   },
@@ -1904,16 +1961,30 @@
       {
         "title": "星海202610九上数学月考题目",
         "icon": "📄",
-        "desc": "来源于网络",
+        "desc": "本资料内容：来源于网络",
         "date": "2026-10-11",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/星海202610九上数学月考题目.pdf"
       },
       {
         "title": "星海202610九上数学月考答案",
         "icon": "📄",
-        "desc": "来源于网络",
+        "desc": "本资料内容：来源于网络",
         "date": "2026-10-11",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/星海202610九上数学月考答案.pdf"
+      }
+    ]
+  },
+  {
+    "name": "非学科资料",
+    "icon": "📚",
+    "desc": "本文件夹内容：非学科资料",
+    "files": [
+      {
+        "title": "九上课程表",
+        "icon": "📄",
+        "desc": "本资料内容：九上课程表",
+        "date": "2026-11-08",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上课程表.xlsx"
       }
     ]
   }
