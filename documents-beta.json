@@ -1658,8 +1658,8 @@
         "lock": {
           "enabled": true,
           "password": "12345678"
-        },
-      }
+        }
+      },
       {
         "title": "期中模拟练习题目",
         "icon": "📄",
