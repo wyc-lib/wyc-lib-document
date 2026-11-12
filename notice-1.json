@@ -22,6 +22,13 @@
       "type": "info",
       "color": "#5B5FC7",
       "icon": "update"
+    },
+    {
+      "title": "秋假快乐",
+      "text": "期中考试已经告一段落力~祝各位秋假玩的开心！",
+      "type": "success",
+      "color": "#16835F",
+      "icon": "success"
     }
   ]
 }
