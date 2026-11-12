@@ -12,16 +12,16 @@
     {
       "title": "资料调整",
       "text": "2026暑假历史知识清单现已并入九上历史学习资料",
-      "type": "success",
-      "color": "#2877b7",
-      "icon": "success"
+      "type": "info",
+      "color": "#5B5FC7",
+      "icon": "update"
     },
     {
       "title": "资料调整",
       "text": "出于文件维护的需要，知识清单优化版取消上线",
       "type": "info"
-      "color": "#2877b7",
-      "icon": "info"
+      "color": "#5B5FC7",
+      "icon": "update"
     }
   ]
 }
