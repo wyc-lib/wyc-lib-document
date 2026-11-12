@@ -12,11 +12,20 @@
     },
     {
       "title": "停车坐爱枫林晚，霜叶红于二月花",
-      "subtitle": "秋日漫漫，欢迎访问学习工作站",
+      "subtitle": "秋假将至，带上好友一起去天平山赏枫吧",
       "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/fall.png",
-      "alt": "秋天",
-      "link": "https://wyc-work.pages.dev",
+      "alt": "秋天背景",
+      "link": "https://web.lotsmall.cn/detail/ticket?m_id=1939&id=8186v",
       "newTab": false,
+      "enabled": true
+    },
+    {
+      "title": "厚德树人，崇文兴教；晏成致远，其道大光！",
+      "subtitle": "欢迎访问苏州市平江中学校官网",
+      "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/2334.png",
+      "alt": "教室背景",
+      "link": "https://pj.gusuedu.cn/",
+      "newTab": true,
       "enabled": true
     }
   ]
