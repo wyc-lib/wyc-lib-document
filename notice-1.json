@@ -5,17 +5,23 @@
     {
       "title": "加载提醒",
       "text": "如果资料库文件无法加载，请多次刷新后重试",
-      "type": "info"
+      "type": "info",
+      "color": "#2877b7",
+      "icon": "info"
     },
     {
       "title": "资料调整",
       "text": "2026暑假历史知识清单现已并入九上历史学习资料",
-      "type": "info"
+      "type": "success",
+      "color": "#2877b7",
+      "icon": "success"
     },
     {
       "title": "资料调整",
       "text": "出于文件维护的需要，知识清单优化版取消上线",
       "type": "info"
+      "color": "#2877b7",
+      "icon": "info"
     }
   ]
 }
