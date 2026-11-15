@@ -2,8 +2,8 @@
   "interval": 5000,
   "items": [
     {
-      "title": "欢迎访问学习工作站！",
-      "subtitle": "愿知识在此传递，伴你持续成长。",
+      "title": "欢迎访问学习工作站",
+      "subtitle": "愿知识在此传递，伴你持续成长",
       "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/1433.png",
       "alt": "工作站背景",
       "link": "https://wyc-work.pages.dev",
