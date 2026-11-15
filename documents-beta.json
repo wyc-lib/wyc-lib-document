@@ -1503,7 +1503,7 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/2026暑假预习1-10.pdf",
         "lock": {
           "enabled": true,
-          "password": "mathdk2601"
+          "password": ""
         }
       },
       {
@@ -1514,7 +1514,7 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/2026暑假预习11-20.pdf",
         "lock": {
           "enabled": true,
-          "password": "mathdk2602"
+          "password": ""
         }
       },
       {
@@ -1525,7 +1525,7 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/DAY1-10答案.pdf",
         "lock": {
           "enabled": true,
-          "password": "mathdk2601"
+          "password": ""
         }
       },
       {
@@ -1536,7 +1536,7 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/DAY11-20答案.pdf",
         "lock": {
           "enabled": true,
-          "password": "mathdk2602"
+          "password": ""
         }
       },
       {
@@ -1547,7 +1547,7 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练1题目.pdf",
         "lock": {
           "enabled": true,
-          "password": "9AWEEK1Q"
+          "password": ""
         }
       },
       {
@@ -1558,7 +1558,7 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练1答案.pdf",
         "lock": {
           "enabled": true,
-          "password": "9AWEEK1A"
+          "password": ""
         }
       },
       {
@@ -1569,7 +1569,7 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练2题目.pdf",
         "lock": {
           "enabled": true,
-          "password": "9AWEEK2Q"
+          "password": ""
         }
       },
       {
@@ -1580,7 +1580,7 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练2答案.pdf",
         "lock": {
           "enabled": true,
-          "password": "9AWEEK2A"
+          "password": ""
         }
       },
       {
@@ -1591,7 +1591,7 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练3题目.pdf",
         "lock": {
           "enabled": true,
-          "password": "9AWEEK3Q"
+          "password": ""
         }
       },
       {
@@ -1602,7 +1602,7 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练3答案.docx",
         "lock": {
           "enabled": true,
-          "password": "9AWEEK3A"
+          "password": ""
         }
       },
       {
@@ -1613,7 +1613,7 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练习4题目.pdf",
         "lock": {
           "enabled": true,
-          "password": "9AWEEK4Q"
+          "password": ""
         }
       },
       {
@@ -1624,7 +1624,7 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练习4答案.pdf",
         "lock": {
           "enabled": true,
-          "password": "9AWEEK4A"
+          "password": ""
         }
       },
       {
@@ -1635,7 +1635,7 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/202409月考.docx",
         "lock": {
           "enabled": true,
-          "password": "9A2409YK"
+          "password": ""
         }
       },
       {
@@ -1646,7 +1646,7 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/作业1-2答案.pdf",
         "lock": {
           "enabled": true,
-          "password": "12345678"
+          "password": ""
         }
       },
       {
@@ -1657,7 +1657,7 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/作业1-3题目.pdf",
         "lock": {
           "enabled": true,
-          "password": "12345678"
+          "password": ""
         }
       },
       {
@@ -1673,7 +1673,29 @@
         "desc": "本资料内容：期中模拟练习答案",
         "date": "2026-11-08",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/期中模拟练习答案.pdf"
-      }   
+      },
+      {
+        "title": "九上数学期中试卷答案",
+        "icon": "📄",
+        "desc": "本资料内容：九上数学期中试卷答案",
+        "date": "2026-11-15",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上数学期中试卷答案.pdf",
+        "lock": {
+          "enabled": true,
+          "password": ""
+        }
+      },
+      {
+        "title": "九上数学圆讲义一",
+        "icon": "📄",
+        "desc": "本资料内容：九上数学圆讲义一",
+        "date": "2026-11-15",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上数学圆讲义一.pdf",
+        "lock": {
+          "enabled": true,
+          "password": ""
+        }
+      }
     ]
   },
   {
@@ -1733,6 +1755,13 @@
         "desc": "本资料内容：来源于QQ群",
         "date": "2026-10-31",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/U3词组默写.doc"
+      },
+      {
+        "title": "9A U5词组 默写版",
+        "icon": "📄",
+        "desc": "本资料内容：来源于QQ群",
+        "date": "2026-11-15",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/9A U5词组 默写版.docx"
       }
     ]
   },
@@ -1915,6 +1944,13 @@
         "desc": "本资料内容：无介绍",
         "date": "2026-10-25",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第三单元知识清单.docx"
+      },
+      {
+        "title": "第六单元文言文联读预习单答案",
+        "icon": "📝",
+        "desc": "本资料内容：秋假作业答案，由AI生成。部分拼音答案存在问题，请查阅书本",
+        "date": "2026-11-15",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第六单元文言文联读预习单答案.docx"
       }
     ]
   },
