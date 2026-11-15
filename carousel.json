@@ -11,7 +11,7 @@
       "enabled": true
     },
     {
-      "title": "停车坐爱枫林晚，霜叶红于二月花",
+      "title": "停车坐爱枫林晚",
       "subtitle": "秋假将至，带上好友一起去天平山赏枫吧",
       "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/fall.png",
       "alt": "秋天背景",
@@ -25,6 +25,15 @@
       "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/2334.png",
       "alt": "教室背景",
       "link": "https://pj.gusuedu.cn/",
+      "newTab": true,
+      "enabled": true
+    },
+    {
+      "title": "圣诞快乐",
+      "subtitle": "点击图片一起来参与wyc的圣诞答题吧",
+      "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/shendan.jpg",
+      "alt": "圣诞背景",
+      "link": "https://c.cloudz.fun/tree/f/7CeBz0a",
       "newTab": true,
       "enabled": true
     }
