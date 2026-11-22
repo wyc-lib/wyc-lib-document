@@ -1627,6 +1627,20 @@
         "desc": "本资料内容：九上数学圆讲义一",
         "date": "2026-11-15",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上数学圆讲义一.pdf"
+      },
+      {
+        "title": "九上数学压轴题",
+        "icon": "📄",
+        "desc": "本资料内容：九上数学压轴题",
+        "date": "2026-11-22",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/压轴题.pdf"
+      },
+      {
+        "title": "周练5题目",
+        "icon": "📄",
+        "desc": "本资料内容：九上数学周练5",
+        "date": "2026-11-22",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练习5.pdf"
       }
     ]
   },
@@ -1880,9 +1894,9 @@
       {
         "title": "第六单元文言文联读预习单答案",
         "icon": "📝",
-        "desc": "本资料内容：秋假作业答案，由AI生成。部分拼音答案存在问题，请查阅书本",
-        "date": "2026-11-15",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第六单元文言文联读预习单答案.docx"
+        "desc": "本资料内容：秋假作业官方答案",
+        "date": "2026-11-22",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第六单元文言文联读预习单参考答案.docx"
       }
     ]
   },
