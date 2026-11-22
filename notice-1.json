@@ -26,9 +26,9 @@
    {
       "title": "下次更新",
       "text": "预计下次公测版将于2026-11-29更新，正式版2027-01-01上线",
-      "type": "warning",
-      "color": "#b56a00",
-      "icon": "warning"
+      "type": "info",
+      "color": "#2877b7",
+      "icon": "info"
     }
   ]
 }
