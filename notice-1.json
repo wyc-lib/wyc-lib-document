@@ -4,31 +4,31 @@
   "items": [
     {
       "title": "加载提醒",
-      "text": "如果资料库文件无法加载，请多次刷新后重试",
+      "text": "如果资料库文件无法加载，请点击搜索界面右上角刷新按钮后重试",
       "type": "info",
       "color": "#2877b7",
       "icon": "info"
     },
     {
-      "title": "资料调整",
-      "text": "2026暑假历史知识清单现已并入九上历史学习资料",
-      "type": "info",
-      "color": "#5B5FC7",
-      "icon": "update"
-    },
-    {
-      "title": "资料调整",
-      "text": "出于文件维护的需要，知识清单优化版取消上线",
-      "type": "info",
-      "color": "#5B5FC7",
-      "icon": "update"
-    },
-    {
-      "title": "秋假快乐",
-      "text": "期中考试已经告一段落力~祝各位秋假玩的开心！",
+      "title": "期中资料",
+      "text": "相关资料已上线资料库，欢迎随时下载",
       "type": "success",
-      "color": "#16835F",
-      "icon": "success"
+      "color": "#18805c",
+      "icon": "book"
+    },
+     {
+      "title": "功能受限",
+      "text": "由于近期服务器网络和算力受限，网站开发将会延迟",
+      "type": "error",
+      "color": "#c53d49",
+      "icon": "warning"
+    },
+   {
+      "title": "下次更新",
+      "text": "预计下次公测版将于2026-11-29更新，正式版2027-01-01上线",
+      "type": "warning",
+      "color": "#b56a00",
+      "icon": "warning"
     }
   ]
 }
