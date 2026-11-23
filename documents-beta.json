@@ -5,6 +5,13 @@
     "desc": "本文件夹内容：七上所有历史学习资料",
     "files": [
       {
+        "title": "七上知识清单压缩包",
+        "icon": "📝",
+        "desc": "本资料内容：所有七上默写的合集",
+        "date": "2026-11-23",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/历史默写答案版.zip"
+      },
+      {
         "title": "七上第1课题目",
         "icon": "📝",
         "desc": "本资料内容：远古时期的人类运动",
