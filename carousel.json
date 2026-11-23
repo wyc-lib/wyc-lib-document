@@ -7,7 +7,7 @@
       "image": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/1433.png",
       "alt": "工作站背景",
       "link": "https://wyc-work.pages.dev",
-      "newTab": false,
+      "newTab": true,
       "enabled": true
     },
     {
@@ -17,7 +17,7 @@
       "alt": "秋天背景",
       "link": "https://web.lotsmall.cn/detail/ticket?m_id=1939&id=8186v",
       "newTab": false,
-      "enabled": true
+      "enabled": false
     },
     {
       "title": "晏成致远，其道大光",
