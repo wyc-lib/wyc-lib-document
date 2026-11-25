@@ -1648,6 +1648,27 @@
         "desc": "本资料内容：九上数学周练5",
         "date": "2026-11-22",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练习5.pdf"
+      },
+      {
+        "title": "周练6题目",
+        "icon": "📄",
+        "desc": "本资料内容：九上数学周练6",
+        "date": "2026-11-25",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练习6.pdf"
+      },
+      {
+        "title": "九上数学圆讲义二",
+        "icon": "📄",
+        "desc": "本资料内容：九上数学圆讲义二",
+        "date": "2026-11-25",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上数学圆讲义二.pdf"
+      },
+      {
+        "title": "九上数学压轴题2",
+        "icon": "📄",
+        "desc": "本资料内容：九上数学压轴题2",
+        "date": "2026-11-25",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/压轴题2.pdf"
       }
     ]
   },
