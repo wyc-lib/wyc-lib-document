@@ -9,30 +9,9 @@
       "color": "#2877b7",
       "icon": "info"
     },
-    {
-      "title": "期中资料",
-      "text": "相关资料已上线资料库，欢迎随时下载",
-      "type": "success",
-      "color": "#18805c",
-      "icon": "book"
-    },
-    {
-      "title": "七上历史",
-      "text": "近期历史即将默写七上内容，原知识清单已上线",
-      "type": "success",
-      "color": "#18805c",
-      "icon": "book"
-    },
-     {
-      "title": "功能受限",
-      "text": "由于近期服务器网络和算力受限，网站开发将会延迟",
-      "type": "error",
-      "color": "#c53d49",
-      "icon": "warning"
-    },
    {
       "title": "下次更新",
-      "text": "预计下次公测版将于2026-11-29更新，正式版2027-01-01上线",
+      "text": "正式版2027-01-01上线",
       "type": "info",
       "color": "#2877b7",
       "icon": "info"
