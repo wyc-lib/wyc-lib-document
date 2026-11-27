@@ -12,9 +12,9 @@
    {
       "title": "下次更新",
       "text": "正式版2027-01-01上线",
-      "type": "info",
-      "color": "#2877b7",
-      "icon": "info"
+      "type": "success",
+      "color": "#16835F",
+      "icon": "success"
     }
   ]
 }
