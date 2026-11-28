@@ -1496,9 +1496,9 @@
     "desc": "本文件夹内容：九上所有数学学习资料",
     "folders": [
       {
-        "name": "2026暑假资料",
+        "name": "暑假合集",
         "icon": "📚",
-        "desc": "本文件夹内容：2026暑假资料",
+        "desc": "本文件夹内容：所有2026暑假数学资料",
         "files": [
               {
                 "title": "2026暑假数学作业答案",
@@ -1538,172 +1538,200 @@
         ]
       },
       {
-        "title": "周练1题目",
-        "icon": "📝",
-        "desc": "本资料内容：周练1题目",
-        "date": "2026-09-25",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练1题目.pdf"
+        "name": "周练合集",
+        "icon": "📚",
+        "desc": "本文件夹内容：所有周练的题目和答案",
+        "files": [
+          {
+            "title": "周练1题目",
+            "icon": "📝",
+            "desc": "本资料内容：周练1题目",
+            "date": "2026-09-25",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练1题目.pdf"
+          },
+          {
+            "title": "周练1答案",
+            "icon": "📝",
+            "desc": "本资料内容：周练1答案",
+            "date": "2026-09-25",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练1答案.pdf"
+          },
+          {
+            "title": "周练2题目",
+            "icon": "📝",
+            "desc": "本资料内容：周练2题目",
+            "date": "2026-10-02",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练2题目.pdf"
+          },
+          {
+            "title": "周练2答案",
+            "icon": "📝",
+            "desc": "本资料内容：周练2答案",
+            "date": "2026-10-02",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练2答案.pdf"
+          },
+          {
+            "title": "周练3题目",
+            "icon": "📝",
+            "desc": "本资料内容：周练3题目",
+            "date": "2026-10-18",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练3题目.pdf"
+          },
+          {
+            "title": "周练3答案",
+            "icon": "📝",
+            "desc": "本资料内容：周练3答案",
+            "date": "2026-10-18",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练3答案.docx"
+          },
+          {
+            "title": "周练4题目",
+            "icon": "📝",
+            "desc": "本资料内容：周练4题目",
+            "date": "2026-11-08",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练习4题目.pdf"
+          },
+          {
+            "title": "周练4答案",
+            "icon": "📝",
+            "desc": "本资料内容：周练4答案",
+            "date": "2026-11-08",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练习4答案.pdf"
+          },
+          {
+            "title": "周练5题目",
+            "icon": "📄",
+            "desc": "本资料内容：九上数学周练5",
+            "date": "2026-11-22",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练习5.pdf"
+          },
+          {
+            "title": "周练6题目",
+            "icon": "📄",
+            "desc": "本资料内容：九上数学周练6",
+            "date": "2026-11-25",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练习6.pdf"
+          }
+        ]
       },
       {
-        "title": "周练1答案",
-        "icon": "📝",
-        "desc": "本资料内容：周练1答案",
-        "date": "2026-09-25",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练1答案.pdf"
+        "name": "试卷合集",
+        "icon": "📚",
+        "desc": "本文件夹内容：所有群发试卷的文档",
+        "files": [
+          {
+            "title": "202409平江月考",
+            "icon": "📝",
+            "desc": "本资料内容：202409平江月考",
+            "date": "2026-10-02",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/202409月考.docx"
+          },
+          {
+            "title": "作业1-2答案",
+            "icon": "📝",
+            "desc": "本资料内容：作业1-2答案",
+            "date": "2026-10-31",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/作业1-2答案.pdf"
+          },
+          {
+            "title": "作业1-3题目",
+            "icon": "📝",
+            "desc": "本资料内容：作业1-3题目",
+            "date": "2026-10-31",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/作业1-3题目.pdf"
+          },
+          {
+            "title": "期中模拟练习题目",
+            "icon": "📄",
+            "desc": "本资料内容：期中模拟练习题目",
+            "date": "2026-11-08",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/期中模拟练习题目.pdf"
+          },
+          {
+            "title": "期中模拟练习答案",
+            "icon": "📄",
+            "desc": "本资料内容：期中模拟练习答案",
+            "date": "2026-11-08",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/期中模拟练习答案.pdf"
+          },
+          {
+            "title": "九上数学期中试卷答案",
+            "icon": "📄",
+            "desc": "本资料内容：九上数学期中试卷答案",
+            "date": "2026-11-15",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上数学期中试卷答案.pdf"
+          }
+        ]
       },
       {
-        "title": "周练2题目",
-        "icon": "📝",
-        "desc": "本资料内容：周练2题目",
-        "date": "2026-10-02",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练2题目.pdf"
+        "name": "其他合集",
+        "icon": "📚",
+        "desc": "本文件夹内容：所有群发其他学校的试卷",
+        "files": [
+          {
+            "title": "星海202610九上数学月考题目",
+            "icon": "📄",
+            "desc": "本资料内容：来源于网络",
+            "date": "2026-10-11",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/星海202610九上数学月考题目.pdf"
+          },
+          {
+            "title": "星海202610九上数学月考答案",
+            "icon": "📄",
+            "desc": "本资料内容：来源于网络",
+            "date": "2026-10-11",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/星海202610九上数学月考答案.pdf"
+          },
+          {
+            "title": "星海中学周测M08答案",
+            "icon": "📄",
+            "desc": "本资料内容：星海中学周测M08答案",
+            "date": "2026-11-28",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/星海中学周测M08答案.pdf"
+          },
+          {
+            "title": "星海中学周测M08题目",
+            "icon": "📄",
+            "desc": "本资料内容：星海中学周测M08题目",
+            "date": "2026-11-28",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/星海中学周测M08题目.pdf"
+          }
+        ]
       },
       {
-        "title": "周练2答案",
-        "icon": "📝",
-        "desc": "本资料内容：周练2答案",
-        "date": "2026-10-02",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练2答案.pdf"
-      },
-      {
-        "title": "周练3题目",
-        "icon": "📝",
-        "desc": "本资料内容：周练3题目",
-        "date": "2026-10-18",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练3题目.pdf"
-      },
-      {
-        "title": "周练3答案",
-        "icon": "📝",
-        "desc": "本资料内容：周练3答案",
-        "date": "2026-10-18",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练3答案.docx"
-      },
-      {
-        "title": "周练4题目",
-        "icon": "📝",
-        "desc": "本资料内容：周练4题目",
-        "date": "2026-11-08",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练习4题目.pdf"
-      },
-      {
-        "title": "周练4答案",
-        "icon": "📝",
-        "desc": "本资料内容：周练4答案",
-        "date": "2026-11-08",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练习4答案.pdf"
-      },
-      {
-        "title": "202409平江月考",
-        "icon": "📝",
-        "desc": "本资料内容：202409平江月考",
-        "date": "2026-10-02",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/202409月考.docx"
-      },
-      {
-        "title": "作业1-2答案",
-        "icon": "📝",
-        "desc": "本资料内容：作业1-2答案",
-        "date": "2026-10-31",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/作业1-2答案.pdf"
-      },
-      {
-        "title": "作业1-3题目",
-        "icon": "📝",
-        "desc": "本资料内容：作业1-3题目",
-        "date": "2026-10-31",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/作业1-3题目.pdf"
-      },
-      {
-        "title": "星海202610九上数学月考题目",
-        "icon": "📄",
-        "desc": "本资料内容：来源于网络",
-        "date": "2026-10-11",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/星海202610九上数学月考题目.pdf"
-      },
-      {
-        "title": "星海202610九上数学月考答案",
-        "icon": "📄",
-        "desc": "本资料内容：来源于网络",
-        "date": "2026-10-11",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/星海202610九上数学月考答案.pdf"
-      },
-      {
-        "title": "期中模拟练习题目",
-        "icon": "📄",
-        "desc": "本资料内容：期中模拟练习题目",
-        "date": "2026-11-08",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/期中模拟练习题目.pdf"
-      },
-      {
-        "title": "期中模拟练习答案",
-        "icon": "📄",
-        "desc": "本资料内容：期中模拟练习答案",
-        "date": "2026-11-08",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/期中模拟练习答案.pdf"
-      },
-      {
-        "title": "九上数学期中试卷答案",
-        "icon": "📄",
-        "desc": "本资料内容：九上数学期中试卷答案",
-        "date": "2026-11-15",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上数学期中试卷答案.pdf"
-      },
-      {
-        "title": "九上数学圆讲义一",
-        "icon": "📄",
-        "desc": "本资料内容：九上数学圆讲义一",
-        "date": "2026-11-15",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上数学圆讲义一.pdf"
-      },
-      {
-        "title": "九上数学压轴题",
-        "icon": "📄",
-        "desc": "本资料内容：九上数学压轴题",
-        "date": "2026-11-22",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/压轴题.pdf"
-      },
-      {
-        "title": "周练5题目",
-        "icon": "📄",
-        "desc": "本资料内容：九上数学周练5",
-        "date": "2026-11-22",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练习5.pdf"
-      },
-      {
-        "title": "周练6题目",
-        "icon": "📄",
-        "desc": "本资料内容：九上数学周练6",
-        "date": "2026-11-25",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/周练习6.pdf"
-      },
-      {
-        "title": "九上数学圆讲义二",
-        "icon": "📄",
-        "desc": "本资料内容：九上数学圆讲义二",
-        "date": "2026-11-25",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上数学圆讲义二.pdf"
-      },
-      {
-        "title": "九上数学压轴题2",
-        "icon": "📄",
-        "desc": "本资料内容：九上数学压轴题2",
-        "date": "2026-11-25",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/压轴题2.pdf"
-      },
-      {
-        "title": "星海中学周测M08答案",
-        "icon": "📄",
-        "desc": "本资料内容：星海中学周测M08答案",
-        "date": "2026-11-28",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/星海中学周测M08答案.pdf"
-      },
-      {
-        "title": "星海中学周测M08题目",
-        "icon": "📄",
-        "desc": "本资料内容：星海中学周测M08题目",
-        "date": "2026-11-28",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/星海中学周测M08题目.pdf"
+        "name": "讲义合集",
+        "icon": "📚",
+        "desc": "本文件夹内容：所有群发学习讲义",
+        "files": [  
+          {
+            "title": "九上数学圆讲义一",
+            "icon": "📄",
+            "desc": "本资料内容：九上数学圆讲义一",
+            "date": "2026-11-15",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上数学圆讲义一.pdf"
+          },
+          {
+            "title": "九上数学压轴题一",
+            "icon": "📄",
+            "desc": "本资料内容：九上数学压轴题",
+            "date": "2026-11-22",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/压轴题.pdf"
+          },
+          {
+            "title": "九上数学圆讲义二",
+            "icon": "📄",
+            "desc": "本资料内容：九上数学圆讲义二",
+            "date": "2026-11-25",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上数学圆讲义二.pdf"
+          },
+          {
+            "title": "九上数学压轴题2",
+            "icon": "📄",
+            "desc": "本资料内容：九上数学压轴题2",
+            "date": "2026-11-25",
+            "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/压轴题2.pdf"
+          }
+        ]
       }
     ]
   },
