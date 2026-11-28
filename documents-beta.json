@@ -1058,12 +1058,7 @@
           "name": "八下历史资料",
           "icon": "📚",
           "desc": "本文件夹内容：八下所有历史学习资料",
-          "folders": [
-            {
-              "name": "第一单元",
-              "icon": "📚",
-              "desc": "本文件夹内容：中华人民共和国成立和社会主义制度建立",
-              "files": [
+          "files": [
                 {
                   "title": "八下第1课题目",
                   "icon": "📝",
@@ -1119,14 +1114,7 @@
                   "desc": "本资料内容：独立自主的和平外交",
                   "date": "2026-07-09",
                   "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第4课 独立自主的和平外交 答案.docx"
-                }
-              ]
-            },
-            {
-              "name": "第二单元",
-              "icon": "📚",
-              "desc": "本文件夹内容：社会主义建设道路的探索",
-              "files": [
+                },
                 {
                   "title": "八下第5课题目",
                   "icon": "📝",
@@ -1168,14 +1156,7 @@
                   "desc": "本资料内容：国防现代化起步和外交工作新突破",
                   "date": "2026-07-09",
                   "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第7课 国防现代化起步和外交工作新突破 答案.docx"
-                }
-              ]
-            },
-            {
-              "name": "第三单元",
-              "icon": "📚",
-              "desc": "本文件夹内容：改革开放与中国特色社会主义的开创",
-              "files": [
+                },
                 {
                   "title": "八下第8课题目",
                   "icon": "📝",
@@ -1231,14 +1212,7 @@
                   "desc": "本资料内容：社会主义初级阶段基本路线",
                   "date": "2026-07-09",
                   "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第11课 社会主义初级阶段基本路线知识清单 答案.docx"
-                }
-              ]
-            },
-            {
-              "name": "第四单元",
-              "icon": "📚",
-              "desc": "本文件夹内容：中国特色社会主义迈向21世纪",
-              "files": [
+                },
                 {
                   "title": "八下第12课题目",
                   "icon": "📝",
@@ -1280,14 +1254,7 @@
                   "desc": "本资料内容：国防和外交工作新局面",
                   "date": "2026-07-09",
                   "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第14课 国防和外交工作新局面 答案.docx"
-                }
-              ]
-            },
-            {
-              "name": "第五单元",
-              "icon": "📚",
-              "desc": "本文件夹内容：在新形势下发展中国特色社会主义",
-              "files": [
+                },
                 {
                   "title": "八下第15课题目",
                   "icon": "📝",
@@ -1329,14 +1296,7 @@
                   "desc": "本资料内容：推进国防军队建设和外交工作",
                   "date": "2026-07-09",
                   "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第17课 推进国防军队建设和外交工作 答案.docx"
-                }
-              ]
-            },
-            {
-              "name": "第六单元",
-              "icon": "📚",
-              "desc": "本文件夹内容：中国特色社会主义进入新时代",
-              "files": [
+                },
                 {
                   "title": "八下第18课题目",
                   "icon": "📝",
@@ -1392,14 +1352,7 @@
                   "desc": "本资料内容：构建人类命运共同体与中国特色大国外交",
                   "date": "2026-07-09",
                   "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第21课 构建人类命运共同体与中国特色大国外交 答案.docx"
-                }
-              ]
-            },
-            {
-              "name": "第七单元",
-              "icon": "📚",
-              "desc": "本文件夹内容：全面建设社会主义现代化国家",
-              "files": [
+                },
                 {
                   "title": "八下第22课题目",
                   "icon": "📝",
@@ -1427,14 +1380,7 @@
                   "desc": "本资料内容：开启全面建设社会主义现代化国家新征程",
                   "date": "2026-07-09",
                   "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第23课 开启全面建设社会主义现代化国家新征程 答案.docx"
-                }
-              ]
-            },
-            {
-              "name": "综合默写",
-              "icon": "📚",
-              "desc": "本文件夹内容：八下期末发布的综合默写",
-              "files": [
+                },
                 {
                   "title": "八下综合默写第1部分",
                   "icon": "📝",
@@ -1449,8 +1395,6 @@
                   "date": "2026-08-02",
                   "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/八下历史专题.docx"
                 }
-              ]
-            }
           ]
         },
     ]
