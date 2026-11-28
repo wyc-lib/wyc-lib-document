@@ -1494,41 +1494,47 @@
     "name": "九上数学资料",
     "icon": "📚",
     "desc": "本文件夹内容：九上所有数学学习资料",
-    "files": [
+    "folders": [
       {
-        "title": "2026暑假数学作业答案",
-        "icon": "📝",
-        "desc": "本资料内容：2026暑假数学作业答案",
-        "date": "2026-08-10",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/暑假数学作业答案.pdf"
-      },
-      {
-        "title": "DAY1-10打卡题目",
-        "icon": "📝",
-        "desc": "本资料内容：2026暑假数学DAY1-10预习打卡题目",
-        "date": "2026-08-11",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/2026暑假预习1-10.pdf"
-      },
-      {
-        "title": "DAY11-20打卡题目",
-        "icon": "📝",
-        "desc": "本资料内容：2026暑假数学DAY11-20预习打卡题目",
-        "date": "2026-08-12",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/2026暑假预习11-20.pdf"
-      },
-      {
-        "title": "DAY1-10打卡答案",
-        "icon": "📝",
-        "desc": "本资料内容：2026暑假数学DAY1-10预习打卡答案",
-        "date": "2026-08-12",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/DAY1-10答案.pdf"
-      },
-      {
-        "title": "DAY11-20打卡答案",
-        "icon": "📝",
-        "desc": "本资料内容：2026暑假数学DAY11-20预习打卡答案",
-        "date": "2026-08-27",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/DAY11-20答案.pdf"
+        "name": "2026暑假资料",
+        "icon": "📚",
+        "desc": "本文件夹内容：2026暑假资料",
+        "files": [
+              {
+                "title": "2026暑假数学作业答案",
+                "icon": "📝",
+                "desc": "本资料内容：2026暑假数学作业答案",
+                "date": "2026-08-10",
+                "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/暑假数学作业答案.pdf"
+              },
+              {
+                "title": "DAY1-10打卡题目",
+                "icon": "📝",
+                "desc": "本资料内容：2026暑假数学DAY1-10预习打卡题目",
+                "date": "2026-08-11",
+                "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/2026暑假预习1-10.pdf"
+              },
+              {
+                "title": "DAY11-20打卡题目",
+                "icon": "📝",
+                "desc": "本资料内容：2026暑假数学DAY11-20预习打卡题目",
+                "date": "2026-08-12",
+                "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/2026暑假预习11-20.pdf"
+              },
+              {
+                "title": "DAY1-10打卡答案",
+                "icon": "📝",
+                "desc": "本资料内容：2026暑假数学DAY1-10预习打卡答案",
+                "date": "2026-08-12",
+                "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/DAY1-10答案.pdf"
+              },
+              {
+                "title": "DAY11-20打卡答案",
+                "icon": "📝",
+                "desc": "本资料内容：2026暑假数学DAY11-20预习打卡答案",
+                "date": "2026-08-27",
+                "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/DAY11-20答案.pdf"
+              }
       },
       {
         "title": "周练1题目",
