@@ -1608,6 +1608,20 @@
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/作业1-3题目.pdf"
       },
       {
+        "title": "星海202610九上数学月考题目",
+        "icon": "📄",
+        "desc": "本资料内容：来源于网络",
+        "date": "2026-10-11",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/星海202610九上数学月考题目.pdf"
+      },
+      {
+        "title": "星海202610九上数学月考答案",
+        "icon": "📄",
+        "desc": "本资料内容：来源于网络",
+        "date": "2026-10-11",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/星海202610九上数学月考答案.pdf"
+      },
+      {
         "title": "期中模拟练习题目",
         "icon": "📄",
         "desc": "本资料内容：期中模拟练习题目",
@@ -1978,24 +1992,10 @@
     ]
   },
   {
-    "name": "其他学校资料",
+    "name": "九上化学资料",
     "icon": "📚",
-    "desc": "本文件夹内容：其他学校试卷资料",
+    "desc": "本文件夹内容：九上所有物理学习资料",
     "files": [
-      {
-        "title": "星海202610九上数学月考题目",
-        "icon": "📄",
-        "desc": "本资料内容：来源于网络",
-        "date": "2026-10-11",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/星海202610九上数学月考题目.pdf"
-      },
-      {
-        "title": "星海202610九上数学月考答案",
-        "icon": "📄",
-        "desc": "本资料内容：来源于网络",
-        "date": "2026-10-11",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/星海202610九上数学月考答案.pdf"
-      },
       {
         "title": "九上化学吴吴相期中卷",
         "icon": "📄",
