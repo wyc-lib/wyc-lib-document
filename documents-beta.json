@@ -1448,6 +1448,27 @@
       }
     ]
   },
+    {
+    "name": "九上语文资料",
+    "icon": "📚",
+    "desc": "本文件夹内容：九上所有语文学习资料",
+    "files": [
+        {
+          "title": "九上第三单元知识清单",
+          "icon": "📝",
+          "desc": "本资料内容：无介绍",
+          "date": "2026-10-25",
+          "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第三单元知识清单.docx"
+        },
+        {
+          "title": "第六单元文言文联读预习单答案",
+          "icon": "📝",
+          "desc": "本资料内容：秋假作业官方答案",
+          "date": "2026-11-22",
+          "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第六单元文言文联读预习单参考答案.docx"
+        }
+      ]
+  },
   {
     "name": "九上数学资料",
     "icon": "📚",
@@ -1782,6 +1803,34 @@
     ]
   },
   {
+    "name": "九上物理资料",
+    "icon": "📚",
+    "desc": "本文件夹内容：九上所有物理学习资料",
+    "files": [
+      {
+        "title": "九上物理期中卷一答案",
+        "icon": "📝",
+        "desc": "本资料内容：九上物理期中卷一答案",
+        "date": "2026-11-08",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上物理期中卷一答案.docx"
+      }
+    ]
+  },
+  {
+    "name": "九上化学资料",
+    "icon": "📚",
+    "desc": "本文件夹内容：九上所有物理学习资料",
+    "files": [
+      {
+        "title": "九上化学吴吴相期中卷",
+        "icon": "📄",
+        "desc": "本资料内容：来源于微信班级群",
+        "date": "2026-11-22",
+        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/吴吴相化学卷.pdf"
+      }
+    ]
+  },
+  {
     "name": "九上历史资料",
     "icon": "📚",
     "desc": "本文件夹内容：九上所有历史学习资料",
@@ -1950,27 +1999,6 @@
     ]
   },
   {
-    "name": "九上语文资料",
-    "icon": "📚",
-    "desc": "本文件夹内容：九上所有语文学习资料",
-    "files": [
-      {
-        "title": "九上第三单元知识清单",
-        "icon": "📝",
-        "desc": "本资料内容：无介绍",
-        "date": "2026-10-25",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上第三单元知识清单.docx"
-      },
-      {
-        "title": "第六单元文言文联读预习单答案",
-        "icon": "📝",
-        "desc": "本资料内容：秋假作业官方答案",
-        "date": "2026-11-22",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/第六单元文言文联读预习单参考答案.docx"
-      }
-    ]
-  },
-  {
     "name": "九上道法资料",
     "icon": "📚",
     "desc": "本文件夹内容：九上所有道法学习资料",
@@ -2002,34 +2030,6 @@
         "desc": "本资料内容：九上教材应知应会。已经更新了11月28日发的版本",
         "date": "2026-11-28",
         "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上教材应知应会.docx"
-      }
-    ]
-  },
-  {
-    "name": "九上物理资料",
-    "icon": "📚",
-    "desc": "本文件夹内容：九上所有物理学习资料",
-    "files": [
-      {
-        "title": "九上物理期中卷一答案",
-        "icon": "📝",
-        "desc": "本资料内容：九上物理期中卷一答案",
-        "date": "2026-11-08",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/九上物理期中卷一答案.docx"
-      }
-    ]
-  },
-  {
-    "name": "九上化学资料",
-    "icon": "📚",
-    "desc": "本文件夹内容：九上所有物理学习资料",
-    "files": [
-      {
-        "title": "九上化学吴吴相期中卷",
-        "icon": "📄",
-        "desc": "本资料内容：来源于微信班级群",
-        "date": "2026-11-22",
-        "file": "https://raw.githubusercontent.com/wyc-lib/wyc-lib-document/main/吴吴相化学卷.pdf"
       }
     ]
   },
