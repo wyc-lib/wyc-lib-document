@@ -9,12 +9,19 @@
       "color": "#2877b7",
       "icon": "info"
     },
-   {
+    {
       "title": "下次更新",
       "text": "正式版2027-01-01上线",
       "type": "success",
       "color": "#16835F",
       "icon": "success"
+    },
+    {
+      "title": "资料提醒",
+      "text": "全年级历史资料不包含九上历史资料",
+      "type": "warning",
+      "color": "#A34700",
+      "icon": "bell"
     }
   ]
 }
